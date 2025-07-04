@@ -1,7 +1,7 @@
 // src/server.js
 const app = require('./app');
-const { initDb } = require('./src/config/database');
-const { loadMoviesFromCsv } = require('./src/services/dataService');
+const { initDb } = require('./config/database');
+const { loadMoviesFromCsv } = require('./services/dataService'); // Caminho corrigido
 
 const PORT = process.env.PORT || 3000; // Porta padrão 3000
 
