@@ -7,6 +7,7 @@ const { db } = require('../config/database');
 const CSV_FILE_PATH = path.join(__dirname, '../../data/movielist.csv');
 
 const loadMoviesFromCsv = () => {
+    console.log(`Attempting to load CSV from: ${CSV_FILE_PATH}`); // Adicione esta linha
     if (!fs.existsSync(CSV_FILE_PATH)) {
         console.error(`CSV file not found at: ${CSV_FILE_PATH}`);
         return;
@@ -18,7 +19,7 @@ const loadMoviesFromCsv = () => {
             columns: true,
             skip_empty_lines: true,
             trim: true,
-            delimiter: ';', // <--- ESTA LINHA É CRÍTICA!
+            delimiter: ';',
             cast: (value, context) => {
                 if (context.column === 'year') {
                     return parseInt(value, 10);
