@@ -13,13 +13,14 @@ const moviesRoutes = require('./routes/moviesRoutes');
 const app = express(); // <--- VERIFIQUE SE ESTA LINHA ESTÁ PRESENTE E CORRETA
 const PORT = process.env.PORT || 3000;
 
-const frontendUrl = 'https://sua-url-do-frontend.onrender.com'; // Exemplo
+const frontendUrl = 'https://listafilme.onrender.com'; // Exemplo
 
 const corsOptions = {
     origin: frontendUrl,
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
     credentials: true,
-    optionsSuccessStatus: 204 }
+    optionsSuccessStatus: 204 
+  };
 // 4. Use os middlewares
 app.use(cors()); // Middleware CORS
 app.use(express.json()); // Middleware para JSON
