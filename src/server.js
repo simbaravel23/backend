@@ -13,7 +13,7 @@ const moviesRoutes = require('./routes/moviesRoutes');
 const app = express(); // <--- VERIFIQUE SE ESTA LINHA ESTÁ PRESENTE E CORRETA
 const PORT = process.env.PORT || 3000;
 
-const frontendUrl = 'https://listadefilme.onrender.com'; // Exemplo
+const frontendUrl = 'https://listafilme.onrender.com'; // Exemplo
 
 const corsOptions = {
     origin: frontendUrl,
