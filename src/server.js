@@ -19,7 +19,8 @@ console.log('Tipo de InitDb após importação:', typeof InitDb);
 // Define as origens permitidas para o CORS
 const allowedOrigins = [
     'http://localhost:5173', // Permite o seu frontend local para desenvolvimento
-    'https://listafilme.onrender.com' // A URL do seu próprio backend na Render
+    'https://listafilme.onrender.com', // A URL do seu próprio backend na Render
+    "https://listadefilmes-adtf.onrender.com"
     // Adicione a URL do seu frontend na Render AQUI quando souber (ex: 'https://seu-frontend-nome.onrender.com')
 ];
 
