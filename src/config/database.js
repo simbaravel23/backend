@@ -1,18 +1,28 @@
-// src/config/database.js
+// backend/src/config/Database.js
 const Datastore = require('nedb');
 const path = require('path');
 
-// Configura o banco de dados para ser completamente em memória.
-// Se você quisesse persistir em arquivo, o construtor seria:
-// new Datastore({ filename: path.join(__dirname, '../../data/movies.db'), autoload: true });
-const db = new Datastore(); // Apenas em memória
+// Define o caminho para o arquivo do banco de dados NeDB
+// Ele será salvo em 'backend/data/movies.db'
+const dbPath = path.join(__dirname, '../../data/movies.db');
 
-const initDb = () => {
-    console.log('Database initialized (in-memory).');
-    // Você pode adicionar um índice se quiser otimizar buscas
-    db.ensureIndex({ fieldName: 'year' }, function (err) {
-        if (err) console.error("Error creating index on 'year':", err);
-    });
+// Inicializa o banco de dados NeDB
+// autoload: true faz com que o banco de dados seja carregado do arquivo automaticamente
+const db = new Datastore({ filename: dbPath, autoload: true });
+
+// Função para inicializar o banco de dados (garantir índices, etc.)
+const InitDb = () => {
+  console.log('Database Initialized (in-memory).'); // Este log é do Database.js
+
+  // Garante que o índice 'year' existe para otimizar buscas
+  db.ensureIndex({ fieldName: 'year', unique: false }, (err) => {
+    if (err) {
+      console.error('Error creating index on "year":', err);
+    } else {
+      console.log('Index on "year" ensured.');
+    }
+  });
 };
 
-module.exports = { db, initDb };
+// Exporta as instâncias 'db' e a função 'InitDb'
+module.exports = { db, InitDb };
