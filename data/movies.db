@@ -1,206 +1,616 @@
+{"year":1992,"title":"Final Analysis","studios":["20th Century Fox"],"producers":["Paul Junger Witt","Charles Roven and Tony Thomas"],"winner":false,"_id":"0HM6prwZ7vgdCB3c"}
+{"year":2014,"title":"The Legend of Hercules","studios":["Summit Entertainment"],"producers":["Boaz Davidson","Renny Harlin","Danny Lerner and Les Weldon"],"winner":false,"_id":"0ZEqLDGHPsfjPOVN"}
+{"year":1991,"title":"Dice Rules","studios":["Seven Arts Productions"],"producers":["Loucas George"],"winner":false,"_id":"0sTNryxONd55Ra8i"}
+{"year":2014,"title":"Teenage Mutant Ninja Turtles","studios":["Paramount Pictures","Nickelodeon Movies","Platinum Dunes"],"producers":["Michael Bay","Ian Bryce","Andrew Form","Bradley Fuller","Scott Mednick and Galen Walker"],"winner":false,"_id":"1cBeX31dr99sRldx"}
+{"year":2008,"title":"Disaster Movie and Meet the Spartans","studios":["Lionsgate","20th Century Fox"],"producers":["Jason Friedberg","Peter Safran and Aaron Seltzer"],"winner":false,"_id":"1debQTQQnbJKcgEa"}
+{"year":1985,"title":"Revolution","studios":["Warner Bros."],"producers":["Irwin Winkler"],"winner":false,"_id":"1fZdWdLm4D87Ie8C"}
+{"year":1994,"title":"Wyatt Earp","studios":["Warner Bros."],"producers":["Kevin Costner","Lawrence Kasdan and Jim Wilson"],"winner":false,"_id":"25S1ed1Xv1KMDMTh"}
+{"year":1996,"title":"Ed","studios":["Universal Studios"],"producers":["Rosalie Swedlin"],"winner":false,"_id":"2ON2ClMJ0Uv2Ul6j"}
+{"year":1993,"title":"Last Action Hero","studios":["Columbia Pictures"],"producers":["John McTiernan and Stephen J. Roth"],"winner":false,"_id":"2P9rH4KcxlcsKmgi"}
+{"year":2009,"title":"Old Dogs","studios":["Walt Disney Pictures"],"producers":["Peter Abrams","Robert Levy and Andrew Panay"],"winner":false,"_id":"3PJqQmIomSYUhCEJ"}
+{"year":1981,"title":"The Legend of the Lone Ranger","studios":["Universal Studios","Associated Film Distribution"],"producers":["Walter Coblenz"],"winner":false,"_id":"3jxmRQ7Faum5HZEm"}
+{"year":2012,"title":"Battleship","studios":["Universal Studios"],"producers":["Sarah Aubrey","Peter Berg","Brian Goldner","Duncan Henderson","Bennett Schneir and Scott Stuber"],"winner":false,"_id":"48eT1zLsW1J0ZeUh"}
+{"year":2010,"title":"The Twilight Saga: Eclipse","studios":["Summit Entertainment"],"producers":["Wyck Godfrey and Karen Rosenfelt"],"winner":false,"_id":"4DcHPF5Nnl9ZwJ2h"}
+{"year":2015,"title":"Paul Blart: Mall Cop 2","studios":["Columbia Pictures"],"producers":["Todd Garner","Kevin James and Adam Sandler"],"winner":false,"_id":"4JHAqY7EqK42K05a"}
+{"year":1986,"title":"Under the Cherry Moon","studios":["Warner Bros."],"producers":["Bob Cavallo","Joe Ruffalo and Steve Fargnoli"],"winner":true,"_id":"4OPIRajlG1fZVsBD"}
+{"year":2011,"title":"The Twilight Saga: Breaking Dawn – Part 1","studios":["Summit Entertainment"],"producers":["Wyck Godfrey","Stephenie Meyer and Karen Rosenfelt"],"winner":false,"_id":"4jBdGok86JJzzf4i"}
+{"year":2014,"title":"Left Behind","studios":["Freestyle Releasing","Entertainment One"],"producers":["Michael Walker and Paul LaLonde"],"winner":false,"_id":"4jrGE3K1ELoC673X"}
+{"year":1994,"title":"On Deadly Ground","studios":["Warner Bros."],"producers":["A. Kitman Ho","Julius R. Nasso and Steven Seagal"],"winner":false,"_id":"4mPzB3kB1OrXC5We"}
+{"year":2007,"title":"Daddy Day Camp","studios":["TriStar Pictures","Revolution Studios"],"producers":["Matt Berenson","John Davis and Wyck Godfrey"],"winner":false,"_id":"4q790nCriiG74ZTQ"}
+{"year":2006,"title":"Lady in the Water","studios":["Warner Bros."],"producers":["Sam Mercer","Jose L. Rodriguez and M. Night Shyamalan"],"winner":false,"_id":"52mzjfMBqYredsvt"}
+{"year":1992,"title":"Shining Through","studios":["20th Century Fox"],"producers":["Carol Baum and Howard Rosenman"],"winner":true,"_id":"5O6Rphf2PxeARS6h"}
+{"year":2012,"title":"That's My Boy","studios":["Columbia Pictures"],"producers":["Allen Covert","Jack Giarraputo","Heather Parry and Adam Sandler"],"winner":false,"_id":"5Ok3Uv957qvf9TyZ"}
+{"year":1987,"title":"Who's That Girl","studios":["Warner Bros."],"producers":["Rosilyn Heller and Bernard Williams"],"winner":false,"_id":"5UdSxwjpUNrayrA8"}
+{"year":2019,"title":"The Haunting of Sharon Tate","studios":["Saban Films"],"producers":["Lucas Jarach","Daniel Farrands","and Eric Brenner"],"winner":false,"_id":"5jPWpc2LuXh3pN2n"}
+{"year":1990,"title":"Graffiti Bridge","studios":["Warner Bros."],"producers":["Randy Phillips and Craig Rice"],"winner":false,"_id":"6yIM3RTMKOenWQlp"}
+{"year":2010,"title":"The Last Airbender","studios":["Paramount Pictures","Nickelodeon Movies"],"producers":["Frank Marshall","Kathleen Kennedy","Sam Mercer and M. Night Shyamalan"],"winner":true,"_id":"7OJRfVq7OOwjmR0K"}
+{"year":2010,"title":"Sex and the City 2","studios":["New Line Cinema","HBO Films","Village Roadshow Pictures"],"producers":["Michael Patrick King","John Melfi","Sarah Jessica Parker and Darren Star"],"winner":false,"_id":"8iSkCBwCAMavON5S"}
+{"year":2016,"title":"Independence Day: Resurgence","studios":["20th Century Fox"],"producers":["Dean Devlin","Harald Kloser and Roland Emmerich"],"winner":false,"_id":"8uovACmPOPcvjjOd"}
+{"year":1996,"title":"The Island of Dr. Moreau","studios":["New Line Cinema"],"producers":["Edward R. Pressman"],"winner":false,"_id":"9gDB8Is089NPNHXa"}
+{"year":1993,"title":"Cliffhanger","studios":["TriStar Pictures","Carolco Pictures"],"producers":["Renny Harlin and Alan Marshall"],"winner":false,"_id":"9hEgJoq9pbKTHk8w"}
+{"year":2018,"title":"Winchester","studios":["Lionsgate"],"producers":["Tim McGahan and Brett Tomberlin"],"winner":false,"_id":"Aj76QDohh71E3a9F"}
+{"year":1980,"title":"Cruising","studios":["Lorimar Productions United Artists"],"producers":["Jerry Weintraub"],"winner":false,"_id":"AtxWSIFVwITOD20J"}
+{"year":2018,"title":"Gotti","studios":["Vertical Entertainment"],"producers":["Randall Emmett","Marc Fiore","Michael Froch and George Furla"],"winner":false,"_id":"AxgWHo3iNRfp70vj"}
+{"year":1983,"title":"The Lonely Lady","studios":["Universal Studios"],"producers":["Robert R. Weston"],"winner":true,"_id":"BGOkvUPycy1A3Yg0"}
+{"year":1980,"title":"The Formula","studios":["MGM United Artists"],"producers":["Steve Shagan"],"winner":false,"_id":"BsKh3vkCJd6bue8t"}
+{"year":1990,"title":"Rocky V","studios":["United Artists"],"producers":["Robert Chartoff and Irwin Winkler"],"winner":false,"_id":"CGHFBkA0Ji0wGvsl"}
+{"year":1986,"title":"Howard the Duck","studios":["Universal Studios"],"producers":["Gloria Katz"],"winner":true,"_id":"ClS1q9Lde5Haa7bC"}
+{"year":1982,"title":"Megaforce","studios":["20th Century Fox"],"producers":["Albert S. Ruddy"],"winner":false,"_id":"Csdo3RVan6hgEzPU"}
+{"year":2015,"title":"Fifty Shades of Grey","studios":["Universal Pictures","Focus Features"],"producers":["Michael De Luca","Dana Brunetti and E. L. James"],"winner":true,"_id":"DZ1qQZj7FVFgmhIw"}
+{"year":1980,"title":"Xanadu","studios":["Universal Studios"],"producers":["Lawrence Gordon"],"winner":false,"_id":"Dob9TPS77Htz5041"}
+{"year":2017,"title":"Baywatch","studios":["Paramount Pictures"],"producers":["Ivan Reitman","Michael Berk","Douglas Schwartz","Gregory J. Bonann and Beau Flynn"],"winner":false,"_id":"E1x68ctenoFhhHtJ"}
+{"year":1994,"title":"Color of Night","studios":["Hollywood Pictures"],"producers":["Buzz Feitshans and David Matalon"],"winner":true,"_id":"E9GeP5VDz2Eq0lpa"}
+{"year":1998,"title":"Armageddon","studios":["Touchstone Pictures"],"producers":["Michael Bay and Jerry Bruckheimer"],"winner":false,"_id":"EgDvSgdsgDwfa1j5"}
+{"year":2017,"title":"The Emoji Movie","studios":["Columbia Pictures"],"producers":["Michelle Raimo Kouyate"],"winner":true,"_id":"FHgtPm0yyltf6qSb"}
+{"year":2019,"title":"Rambo: Last Blood","studios":["Lionsgate"],"producers":["Avi Lerner","Kevin King Templeton","Yariv Lerner","and Les Weldon"],"winner":false,"_id":"FIyCP8dfZEtgPhKw"}
+{"year":1988,"title":"Cocktail","studios":["Touchstone Pictures"],"producers":["Ted Field and Robert W. Cort"],"winner":true,"_id":"FMEvUC8tMzvtpC8b"}
+{"year":2015,"title":"Pixels","studios":["Columbia Pictures"],"producers":["Adam Sandler","Chris Columbus","Mark Radcliffe and Allen Covert"],"winner":false,"_id":"FX69tjKE5nZkfgnl"}
+{"year":1983,"title":"Two of a Kind","studios":["20th Century Fox"],"producers":["Roger M. Rothstein and Joe Wizan"],"winner":false,"_id":"FaMvB7vJu2npY8Eg"}
+{"year":2017,"title":"The Mummy","studios":["Universal Pictures"],"producers":["Alex Kurtzman","Chris Morgan","Sean Daniel and Sarah Bradshaw"],"winner":false,"_id":"Fey6Al23QBkvF4og"}
+{"year":2005,"title":"House of Wax","studios":["Warner Bros.","Village Roadshow"],"producers":["Susan Levin","Joel Silver and Robert Zemeckis"],"winner":false,"_id":"FiqwrqsM7oVxXPPr"}
+{"year":1980,"title":"Windows","studios":["United Artists"],"producers":["Mike Lobell"],"winner":false,"_id":"GDFjaWhdzPCqaSfj"}
+{"year":2017,"title":"Transformers: The Last Knight","studios":["Paramount Pictures"],"producers":["Don Murphy","Tom DeSanto","Lorenzo di Bonaventura and Ian Bryce"],"winner":false,"_id":"HPOqPzemX1KcY5pQ"}
+{"year":1997,"title":"Anaconda","studios":["Columbia Pictures"],"producers":["Verna Harrah","Carole Little and Leonard Rabinowitz"],"winner":false,"_id":"HoSC8GUcpACVwyRt"}
+{"year":1992,"title":"Christopher Columbus: The Discovery","studios":["Warner Bros."],"producers":["Alexander Salkind and Ilya Salkind"],"winner":false,"_id":"HudyDAddFJPrKvXj"}
+{"year":2012,"title":"The Oogieloves in the Big Balloon Adventure","studios":["Lionsgate Films","Romar Entertainment","Kenn Viselman Presents"],"producers":["Gayle Dickie","Kenn Viselman"],"winner":false,"_id":"I0hFZhxrTdwY7dN8"}
+{"year":2009,"title":"Land of the Lost","studios":["Universal Studios"],"producers":["Sid and Marty Krofft and Jimmy Miller"],"winner":false,"_id":"IEB1eiLm5VHmXleL"}
+{"year":1997,"title":"Batman & Robin","studios":["Warner Bros."],"producers":["Peter MacGregor-Scott"],"winner":false,"_id":"IKKp2MVT3fPuDMAK"}
+{"year":1993,"title":"Body of Evidence","studios":["MGM","United Artists"],"producers":["Dino De Laurentiis"],"winner":false,"_id":"INbGy91M2ucLXqdm"}
+{"year":1990,"title":"The Adventures of Ford Fairlane","studios":["20th Century Fox"],"producers":["Steven Perry and Joel Silver"],"winner":true,"_id":"IsY8MVDg5eR8u8mu"}
+{"year":2005,"title":"Deuce Bigalow: European Gigolo","studios":["Columbia Pictures"],"producers":["Adam Sandler and Rob Schneider"],"winner":false,"_id":"IuSMbDd2PJi1DJ9M"}
+{"year":1981,"title":"Tarzan, the Ape Man","studios":["MGM","United Artists"],"producers":["John Derek"],"winner":false,"_id":"J9aSeGSeYKKjFPIJ"}
+{"year":2013,"title":"Movie 43","studios":["Relativity Media"],"producers":["Peter Farrelly","Ryan Kavanaugh","John Penotti and Charles B. Wessler"],"winner":true,"_id":"JgxdatBBwuemv5XE"}
+{"year":2017,"title":"Fifty Shades Darker","studios":["Universal Pictures"],"producers":["Michael De Luca","E. L. James","Dana Brunetti and Marcus Viscidi"],"winner":false,"_id":"Jp1dzhXYoLBE6agu"}
+{"year":2007,"title":"Norbit","studios":["DreamWorks"],"producers":["John Davis","Eddie Murphy and Michael Tollin"],"winner":false,"_id":"KM5YmJG9Hzdkbe2B"}
+{"year":1994,"title":"North","studios":["Columbia Pictures","Castle Rock Entertainment"],"producers":["Rob Reiner and Alan Zweibel"],"winner":false,"_id":"KRroRRcXH5qAfOiN"}
+{"year":2011,"title":"Transformers: Dark of the Moon","studios":["Paramount Pictures"],"producers":["Lorenzo di Bonaventura","Ian Bryce","Tom DeSanto and Don Murphy"],"winner":false,"_id":"KiJxxYzvaPtYGggk"}
+{"year":1991,"title":"Nothing but Trouble","studios":["Warner Bros."],"producers":["Lester Berman and Robert K. Weiss"],"winner":false,"_id":"L4ncroDrnixNeQty"}
+{"year":1986,"title":"Cobra","studios":["Warner Bros.","Cannon Films"],"producers":["Yoram Globus and Menahem Golan"],"winner":false,"_id":"LLAMiQL1Iam6tjMg"}
+{"year":2008,"title":"In the Name of the King","studios":["Boll KG","Brightlight Pictures"],"producers":["Uwe Boll","Dan Clarke","Wolfgang Herrold and Shawn Williamson"],"winner":false,"_id":"LMC0lircPrquuTw2"}
+{"year":2001,"title":"Pearl Harbor","studios":["Touchstone Pictures"],"producers":["Michael Bay and Jerry Bruckheimer"],"winner":false,"_id":"LWjbDKG27DT8cIOF"}
+{"year":2011,"title":"Jack and Jill","studios":["Columbia Pictures"],"producers":["Todd Garner","Jack Giarraputo and Adam Sandler"],"winner":true,"_id":"M32MPjtZUHGED6d9"}
+{"year":1996,"title":"Barb Wire","studios":["PolyGram Filmed Entertainment","Gramercy Pictures"],"producers":["Todd Moyer","Mike Richardson and Brad Wyman"],"winner":false,"_id":"NJsGjbkms84lJwzp"}
+{"year":1980,"title":"The Jazz Singer","studios":["Associated Film Distribution"],"producers":["Jerry Leider"],"winner":false,"_id":"NkYwGGP2lGP22fm4"}
+{"year":2019,"title":"Cats","studios":["Universal Pictures"],"producers":["Debra Hayward","Tim Bevan","Eric Fellner","and Tom Hooper"],"winner":true,"_id":"OBIVZVfPcJUDJgJm"}
+{"year":1995,"title":"It's Pat","studios":["Touchstone Pictures"],"producers":["Charles B. Wessler"],"winner":false,"_id":"OQRDNvs0y91xHaoz"}
+{"year":1980,"title":"Saturn 3","studios":["Associated Film Distribution"],"producers":["Stanley Donen"],"winner":false,"_id":"OfHJXRaAripZVsE4"}
+{"year":2018,"title":"Holmes & Watson","studios":["Columbia Pictures"],"producers":["Will Ferrell","Adam McKay","Jimmy Miller and Clayton Townsend"],"winner":true,"_id":"Ojj69seDMn7lLEha"}
+{"year":1989,"title":"Lock Up","studios":["TriStar Pictures","Carolco Pictures"],"producers":["Charles Gordon and Lawrence Gordon"],"winner":false,"_id":"P0NxCRIorvtI5wQj"}
+{"year":1990,"title":"Ghosts Can't Do It","studios":["Triumph Releasing"],"producers":["Bo Derek"],"winner":true,"_id":"P44xG2Q1yjiICGtK"}
+{"year":2016,"title":"Gods of Egypt","studios":["Summit Entertainment"],"producers":["Basil Iwanyk and Alex Proyas"],"winner":false,"_id":"PCrUuwGP8qwHk4pi"}
+{"year":1989,"title":"Star Trek V: The Final Frontier","studios":["Paramount Pictures"],"producers":["Harve Bennett"],"winner":true,"_id":"PMELsK6biaAr77iM"}
+{"year":1995,"title":"Waterworld","studios":["Universal Studios"],"producers":["Kevin Costner","John Davis","Charles Gordon and Lawrence Gordon"],"winner":false,"_id":"Pb3IKXTu5aHNf2LI"}
+{"year":2019,"title":"The Fanatic","studios":["Quiver Distribution"],"producers":["Daniel Grodnik","Oscar Generale","and Bill Kenwright"],"winner":false,"_id":"PzrWsC6slTLMBBC2"}
+{"year":2002,"title":"Swept Away","studios":["Screen Gems"],"producers":["Matthew Vaughn"],"winner":true,"_id":"QV8hP5gRpDTpGhFi"}
+{"year":2016,"title":"Dirty Grandpa","studios":["Lionsgate"],"producers":["Bill Block","Michael Simkin","Jason Barrett and Barry Josephson"],"winner":false,"_id":"Qjr7dYzyTyFfj76a"}
+{"year":1989,"title":"The Karate Kid Part III","studios":["Columbia Pictures"],"producers":["Jerry Weintraub"],"winner":false,"_id":"RFkRdgV6xNpX0Yit"}
+{"year":2013,"title":"The Lone Ranger","studios":["Walt Disney Pictures"],"producers":["Jerry Bruckheimer and Gore Verbinski"],"winner":false,"_id":"RiwqhPwPq2pOFAG2"}
+{"year":2008,"title":"The Happening","studios":["20th Century Fox"],"producers":["Barry Mendel","Sam Mercer and M. Night Shyamalan"],"winner":false,"_id":"SAtAPGx6pXdLIX6B"}
+{"year":1982,"title":"Butterfly","studios":["Analysis Film Releasing"],"producers":["Matt Cimber"],"winner":false,"_id":"SGA2BN3yrGbpSIEu"}
+{"year":2004,"title":"Alexander","studios":["Warner Bros."],"producers":["Moritz Borman","Jon Kilik","Thomas Schuhly and Iain Smith"],"winner":false,"_id":"SKB4YfHF31FIiXbm"}
+{"year":2007,"title":"Bratz","studios":["Lionsgate"],"producers":["Avi Arad","Isaac Larian and Steven Paul"],"winner":false,"_id":"Sr4AvWIVV3VS964i"}
+{"year":2000,"title":"Battlefield Earth","studios":["Warner Bros.","Franchise Pictures"],"producers":["Jonathan D. Krane","Elie Samaha and John Travolta"],"winner":true,"_id":"T6vX2DaQFIye6RkF"}
+{"year":2016,"title":"Batman v Superman: Dawn of Justice","studios":["Warner Bros."],"producers":["Charles Roven and Deborah Snyder"],"winner":false,"_id":"TEfxynTq2zLicipw"}
+{"year":2002,"title":"Pinocchio","studios":["Miramax Films"],"producers":["Gianluigi Braschi","Nicoletta Braschi and Elda Ferri"],"winner":false,"_id":"TbnK7egwV1YcsId9"}
+{"year":2002,"title":"The Adventures of Pluto Nash","studios":["Warner Bros."],"producers":["Martin Bregman","Michael Scott Bregman and Louis A. Stroller"],"winner":false,"_id":"TrORAVexGSoxQCTA"}
+{"year":1987,"title":"Ishtar","studios":["Columbia Pictures"],"producers":["Warren Beatty"],"winner":false,"_id":"TwjjJdDgKDbWlEC6"}
+{"year":2006,"title":"BloodRayne","studios":["Romar Entertainment"],"producers":["Uwe Boll","Dan Clarke and Wolfgang Herrold"],"winner":false,"_id":"Ub4mPbIGQajV7xaS"}
+{"year":2011,"title":"New Year's Eve","studios":["Warner Bros.","New Line Cinema"],"producers":["Mike Karz","Garry Marshall and Wayne Allan Rice"],"winner":false,"_id":"Uw3timkokyVrPkjK"}
+{"year":2012,"title":"The Twilight Saga: Breaking Dawn – Part 2","studios":["Summit Entertainment"],"producers":["Wyck Godfrey","Stephenie Meyer and Karen Rosenfelt"],"winner":true,"_id":"V5icj0evEnM9mHT1"}
+{"year":1982,"title":"Inchon","studios":["MGM"],"producers":["Mitsuharu Ishii"],"winner":true,"_id":"VOrpgoC2FJJNokBy"}
+{"year":1980,"title":"Can't Stop the Music","studios":["Associated Film Distribution"],"producers":["Allan Carr"],"winner":true,"_id":"VSp8Oy87lPol0LNG"}
+{"year":1987,"title":"Leonard Part 6","studios":["Columbia Pictures"],"producers":["Bill Cosby"],"winner":true,"_id":"VhrszSFWULR0en3Q"}
+{"year":1986,"title":"Blue City","studios":["Paramount Pictures"],"producers":["William L. Hayward and Walter Hill"],"winner":false,"_id":"Vy6LX9mIwVI7Dbzf"}
+{"year":1985,"title":"Rambo: First Blood Part II","studios":["Columbia Pictures"],"producers":["Buzz Feitshans"],"winner":true,"_id":"WP5chbk7qSUbANG1"}
+{"year":1983,"title":"Stroker Ace","studios":["Warner Bros.","Universal Studios"],"producers":["Hank Moonjean"],"winner":false,"_id":"WenhER9XtNVqljhy"}
+{"year":1981,"title":"Heaven's Gate","studios":["United Artists"],"producers":["Joann Carelli"],"winner":false,"_id":"Wji5cnGD17JJFBxd"}
+{"year":2002,"title":"Star Wars: Episode II – Attack of the Clones","studios":["20th Century Fox"],"producers":["Rick McCallum and George Lucas"],"winner":false,"_id":"XCb5UakHafxtk6Jr"}
+{"year":1985,"title":"Rocky IV","studios":["MGM","United Artists"],"producers":["Irwin Winkler and Robert Chartoff"],"winner":false,"_id":"XJn3YoOE5rOL7urV"}
+{"year":1995,"title":"Congo","studios":["Paramount Pictures"],"producers":["Kathleen Kennedy and Sam Mercer"],"winner":false,"_id":"XnLxbujv3GvOBtLB"}
+{"year":2002,"title":"Crossroads","studios":["Paramount Pictures"],"producers":["Ann Carli"],"winner":false,"_id":"YGpHEsqNrAEeYqgN"}
+{"year":2000,"title":"Book of Shadows: Blair Witch 2","studios":["Artisan Entertainment"],"producers":["Bill Carraro"],"winner":false,"_id":"YQksCDoVgyIyu6Cy"}
+{"year":1991,"title":"Return to the Blue Lagoon","studios":["Columbia Pictures"],"producers":["William A. Graham"],"winner":false,"_id":"YaB4idHGwOmdTiXT"}
+{"year":2015,"title":"Jupiter Ascending","studios":["Warner Bros."],"producers":["Grant Hill and The Wachowskis"],"winner":false,"_id":"YdUPTnRuSSM8cQOY"}
+{"year":2009,"title":"All About Steve","studios":["20th Century Fox"],"producers":["Sandra Bullock and Mary McLaglen"],"winner":false,"_id":"YeP4dyObV5QVSjv7"}
+{"year":2005,"title":"Dirty Love","studios":["First Look Pictures"],"producers":["John Mallory Asher","BJ Davis","Rod Hamilton","Kimberley Kates","Michael Manasseri","Jenny McCarthy and Trent Walford"],"winner":true,"_id":"Yh5T9aTXYNDTYYxK"}
+{"year":1991,"title":"Hudson Hawk","studios":["TriStar Pictures"],"producers":["Joel Silver"],"winner":true,"_id":"Yj3skCs6RGLCtDHQ"}
+{"year":2013,"title":"After Earth","studios":["Columbia Pictures"],"producers":["James Lassiter","Caleeb Pinkett","Jada Pinkett Smith","M. Night Shyamalan","Will Smith and Jaden Smith"],"winner":false,"_id":"Ykw7DFU7zaCPxC7d"}
+{"year":1982,"title":"Annie","studios":["Columbia Pictures"],"producers":["Ray Stark"],"winner":false,"_id":"ZFNHwQgx2HkKVbMu"}
+{"year":1982,"title":"The Pirate Movie","studios":["20th Century Fox"],"producers":["David Joseph"],"winner":false,"_id":"aCwPClmo3hSK2IGw"}
+{"year":2005,"title":"The Dukes of Hazzard","studios":["Warner Bros.","Village Roadshow"],"producers":["Bill Gerber"],"winner":false,"_id":"afefc4TssUUunpME"}
+{"year":2016,"title":"Zoolander 2","studios":["Paramount Pictures"],"producers":["Stuart Cornfeld","Scott Rudin","Ben Stiller and Clayton Townsend"],"winner":false,"_id":"b0mKPGbByzYfwZ3l"}
+{"year":2003,"title":"Gigli","studios":["Columbia Pictures","Revolution Studios"],"producers":["Martin Brest and Casey Silver"],"winner":true,"_id":"bAdeUbcb5KhedH6b"}
+{"year":2004,"title":"Catwoman","studios":["Warner Bros."],"producers":["Denise Di Novi and Edward McDonnell"],"winner":true,"_id":"bXzQk36CsVzTioeA"}
+{"year":1981,"title":"Mommie Dearest","studios":["Paramount Pictures"],"producers":["Frank Yablans"],"winner":true,"_id":"brTQBXwuOMAdkjGt"}
+{"year":1999,"title":"Wild Wild West","studios":["Warner Bros."],"producers":["Jon Peters and Barry Sonnenfeld"],"winner":true,"_id":"cRz3u0QTV7AhYDnT"}
+{"year":1988,"title":"Hot to Trot","studios":["Warner Bros."],"producers":["Steve Tisch"],"winner":false,"_id":"czQP8GkKkhOjWqPN"}
+{"year":1999,"title":"The Haunting","studios":["DreamWorks"],"producers":["Susan Arthur","Donna Roth and Colin Wilson"],"winner":false,"_id":"dfSvxCeM7zdFlLyN"}
+{"year":1984,"title":"Bolero","studios":["Cannon Films"],"producers":["Bo Derek"],"winner":true,"_id":"dnfSZf6SmhF3EqSk"}
+{"year":1984,"title":"Rhinestone","studios":["20th Century Fox"],"producers":["Marvin Worth and Howard Smith"],"winner":false,"_id":"dqyFIfaikUyzM05J"}
+{"year":1998,"title":"Godzilla","studios":["TriStar Pictures"],"producers":["Roland Emmerich and Dean Devlin"],"winner":false,"_id":"eCKlVABiI2lXAK2V"}
+{"year":2001,"title":"Freddy Got Fingered","studios":["20th Century Fox"],"producers":["Larry Brezner","Howard Lapides and Lauren Lloyd"],"winner":true,"_id":"fCknaNJZyS2Umyxz"}
+{"year":2011,"title":"Bucky Larson: Born to Be a Star","studios":["Columbia Pictures"],"producers":["Barry Bernardi","Allen Covert","David Dorfman and Jack Giarraputo"],"winner":false,"_id":"gPTw8mauB5dhKeUP"}
+{"year":1995,"title":"Showgirls","studios":["MGM","United Artists"],"producers":["Charles Evans and Alan Marshall"],"winner":true,"_id":"gloTnxi7ABedPJqS"}
+{"year":1998,"title":"An Alan Smithee Film: Burn Hollywood Burn","studios":["Hollywood Pictures"],"producers":["Ben Myron and Joe Eszterhas"],"winner":true,"_id":"h7PWp7gHkXV7z3wV"}
+{"year":1980,"title":"Raise the Titanic","studios":["Associated Film Distribution"],"producers":["William Frye"],"winner":false,"_id":"h9rErUl9ZdKufick"}
+{"year":2006,"title":"Basic Instinct 2","studios":["MGM","C2 Pictures"],"producers":["Mario Kassar","Joel B. Michaels and Andrew G. Vajna"],"winner":true,"_id":"hN4saSp5Xz35BHNR"}
+{"year":1993,"title":"Sliver","studios":["Paramount Pictures"],"producers":["Robert Evans"],"winner":false,"_id":"hOLYDlBMbIeBBFHM"}
+{"year":1989,"title":"Speed Zone","studios":["Orion Pictures"],"producers":["Murray Shostack"],"winner":false,"_id":"hOuHS2stPvqRSMff"}
+{"year":2007,"title":"I Know Who Killed Me","studios":["TriStar Pictures"],"producers":["David Grace and Frank Mancuso Jr."],"winner":false,"_id":"hRnj2yUFC7LRjTZK"}
+{"year":2007,"title":"I Now Pronounce You Chuck & Larry","studios":["Universal Studios"],"producers":["Adam Sandler and Tom Shadyac"],"winner":false,"_id":"i3PcXO3c7h2PkFcG"}
+{"year":2010,"title":"Vampires Suck","studios":["20th Century Fox"],"producers":["Jason Friedberg","Peter Safran and Aaron Seltzer"],"winner":false,"_id":"i3Y73uYWWXATEaED"}
+{"year":1990,"title":"The Bonfire of the Vanities","studios":["Warner Bros."],"producers":["Brian De Palma"],"winner":false,"_id":"iHJCByfW0tMbElU9"}
+{"year":1980,"title":"Friday the 13th","studios":["Paramount Pictures"],"producers":["Sean S. Cunningham"],"winner":false,"_id":"j7PmdAiEHzF3DVNg"}
+{"year":2008,"title":"The Love Guru","studios":["Paramount Pictures"],"producers":["Gary Barber","Michael DeLuca and Mike Myers"],"winner":true,"_id":"jPCCG6VPBmekveEX"}
+{"year":1997,"title":"Speed 2: Cruise Control","studios":["20th Century Fox"],"producers":["Jan de Bont","Steve Perry and Michael Peyser"],"winner":false,"_id":"k2tgzTlMlaGOycHE"}
+{"year":2018,"title":"The Happytime Murders","studios":["STX"],"producers":["Ben Falcone","Jeffrey Hayes","Brian Henson and Melissa McCarthy"],"winner":false,"_id":"k8oREhKrzT1GR2fa"}
+{"year":1998,"title":"The Avengers","studios":["Warner Bros."],"producers":["Jerry Weintraub"],"winner":false,"_id":"kLvIwfRVvGfEwu4t"}
+{"year":1991,"title":"Cool as Ice","studios":["Universal Studios"],"producers":["Carolyn Pfeiffer and Lionel Wingram"],"winner":false,"_id":"kMTdzeBcJSXsaI5y"}
+{"year":1985,"title":"Year of the Dragon","studios":["MGM","United Artists"],"producers":["Dino De Laurentiis"],"winner":false,"_id":"kPo0Ew2dOUYXRcfx"}
+{"year":2009,"title":"G.I. Joe: The Rise of Cobra","studios":["Paramount Pictures","Hasbro"],"producers":["Lorenzo di Bonaventura","Bob Ducsay and Brian Goldner"],"winner":false,"_id":"kqBFPysDe9NbBPi0"}
+{"year":1994,"title":"The Specialist","studios":["Warner Bros."],"producers":["Jerry Weintraub"],"winner":false,"_id":"lAwx9WA417AStLXw"}
+{"year":2001,"title":"3000 Miles to Graceland","studios":["Warner Bros.","Franchise Pictures"],"producers":["Demian Lichtenstein","Eric Manes","Elie Samaha","Richard Spero and Andrew Stevens"],"winner":false,"_id":"lD7WZQX63yWSiUWs"}
+{"year":2003,"title":"From Justin to Kelly","studios":["20th Century Fox"],"producers":["John Steven Agoglia"],"winner":false,"_id":"lVT8kV32IO91fNel"}
+{"year":1985,"title":"Fever Pitch","studios":["MGM","United Artists"],"producers":["Freddie Fields"],"winner":false,"_id":"m9hoSUsDDerhQWWi"}
+{"year":2018,"title":"Robin Hood","studios":["Summit Entertainment"],"producers":["Jennifer Davisson and Leonardo DiCaprio"],"winner":false,"_id":"nN6iTqSND9YI6Vo1"}
+{"year":1983,"title":"Jaws 3-D","studios":["Universal Studios"],"producers":["Rupert Hitzig"],"winner":false,"_id":"nXCA6mi9TbBhYT6R"}
+{"year":2009,"title":"Transformers: Revenge of the Fallen","studios":["Paramount Pictures","DreamWorks","Hasbro"],"producers":["Lorenzo di Bonaventura","Ian Bryce","Tom DeSanto and Don Murphy"],"winner":true,"_id":"nnpA4hJBdBshnp6N"}
+{"year":2000,"title":"The Flintstones in Viva Rock Vegas","studios":["Universal Studios"],"producers":["Bruce Cohen"],"winner":false,"_id":"nuZv0XWpMEl9D7ng"}
+{"year":1998,"title":"Spice World","studios":["Columbia Pictures"],"producers":["Uri Fruchtan","Mark L. Rosen and Barnaby Thompson"],"winner":false,"_id":"ohA0n72N3tchl5pT"}
+{"year":2019,"title":"A Madea Family Funeral","studios":["Lionsgate"],"producers":["Ozzie Areu","Will Areu","and Mark E. Swinton"],"winner":false,"_id":"oyITKPHcYuu5td7N"}
+{"year":2014,"title":"Transformers: Age of Extinction","studios":["Paramount Pictures"],"producers":["Ian Bryce","Tom DeSanto","Lorenzo di Bonaventura and Don Murphy"],"winner":false,"_id":"p126iUcF1SGXP2Lt"}
+{"year":1988,"title":"Caddyshack II","studios":["Warner Bros."],"producers":["Neil Canton","Jon Peters and Peter Guber"],"winner":false,"_id":"p4lraLDkyGWB8VKe"}
+{"year":1997,"title":"The Postman","studios":["Warner Bros."],"producers":["Kevin Costner","Steve Tisch and Jim Wilson"],"winner":true,"_id":"pm8dhfapgDdDpI6c"}
+{"year":2006,"title":"Little Man","studios":["Columbia Pictures","Revolution Studios"],"producers":["Rick Alvares","Lee Mays","Marlon Wayans and Shawn Wayans"],"winner":false,"_id":"ptyuyGu4lxmso48u"}
+{"year":2006,"title":"The Wicker Man","studios":["Warner Bros."],"producers":["Nicolas Cage","Randall Emmett","Norm Golightly","Avi Lerner and Joanne Sellar"],"winner":false,"_id":"pukAUR1FoStXgQLt"}
+{"year":2015,"title":"Fantastic Four","studios":["20th Century Fox"],"producers":["Simon Kinberg","Matthew Vaughn","Hutch Parker","Robert Kulzer and Gregory Goodman"],"winner":true,"_id":"qKYy5kydDlybc8k4"}
+{"year":1986,"title":"Shanghai Surprise","studios":["MGM"],"producers":["John Kohn"],"winner":false,"_id":"qewtryXXdHivVxZS"}
+{"year":1980,"title":"The Nude Bomb","studios":["Universal Studios"],"producers":["Jennings Lang"],"winner":false,"_id":"rCjVyI5fcPtUSpPM"}
+{"year":2010,"title":"The Bounty Hunter","studios":["Columbia Pictures"],"producers":["Neal H. Moritz"],"winner":false,"_id":"rrgr5aZx6Ongvu0h"}
+{"year":1995,"title":"The Scarlet Letter","studios":["Hollywood Pictures"],"producers":["Roland Joffé and Andrew G. Vajna"],"winner":false,"_id":"s46LoQq6q8Nnyzrn"}
+{"year":2001,"title":"Glitter","studios":["20th Century Fox","Columbia Pictures"],"producers":["Laurence Mark and E. Bennett Walsh"],"winner":false,"_id":"sCmeIYQhLdqBBZRW"}
+{"year":1999,"title":"The Blair Witch Project","studios":["Artisan Entertainment"],"producers":["Robin Cowie and Gregg Hale"],"winner":false,"_id":"sGsGHchQamdiHRh3"}
+{"year":1993,"title":"Indecent Proposal","studios":["Paramount Pictures"],"producers":["Sherry Lansing"],"winner":true,"_id":"sM0AUM3LwLdYgvaC"}
+{"year":2013,"title":"A Madea Christmas","studios":["Lionsgate"],"producers":["Ozzie Areu","Matt Moore and Tyler Perry"],"winner":false,"_id":"sOto7Qpe1OBETEtl"}
+{"year":1989,"title":"Road House","studios":["United Artists"],"producers":["Joel Silver"],"winner":false,"_id":"sYAMm06wGZQnRLgg"}
+{"year":1983,"title":"Hercules","studios":["MGM","United Artists","Cannon Films"],"producers":["Yoram Globus and Menahem Golan"],"winner":false,"_id":"t6agKNJeQaRCoKrR"}
+{"year":2012,"title":"A Thousand Words","studios":["Paramount Pictures","DreamWorks"],"producers":["Nicolas Cage","Alain Chabat","Stephanie Danan","Norman Golightly","Brian Robbinsand Sharla Sumpter Bridgett"],"winner":false,"_id":"tB2GbNyYePiAuKOj"}
+{"year":2004,"title":"Superbabies: Baby Geniuses 2","studios":["Triumph Films"],"producers":["Steven Paul"],"winner":false,"_id":"tQjnT4DHoTvIW0z4"}
+{"year":1996,"title":"Striptease","studios":["Columbia Pictures","Castle Rock Entertainment"],"producers":["Andrew Bergman and Mike Lobell"],"winner":true,"_id":"uK4qXBYdRrB0EryQ"}
+{"year":1984,"title":"Sheena","studios":["Columbia Pictures"],"producers":["Paul Aratow"],"winner":false,"_id":"ujiRn17A8VqRqwQ0"}
+{"year":2016,"title":"Hillary's America: The Secret History of the Democratic Party","studios":["Quality Flix"],"producers":["Gerald R. Molen"],"winner":true,"_id":"utHG4alnnZZs7f3i"}
+{"year":1992,"title":"Newsies","studios":["Walt Disney Pictures"],"producers":["Michael Finnell"],"winner":false,"_id":"vh9G3yacLDbdfdl9"}
+{"year":1988,"title":"Mac and Me","studios":["Orion Pictures"],"producers":["R. J. Louis"],"winner":false,"_id":"vzB4TVkRCf8J09OE"}
+{"year":2000,"title":"The Next Best Thing","studios":["Paramount Pictures"],"producers":["Leslie Dixon","Linne Radmin and Tom Rosenberg"],"winner":false,"_id":"wOyglfWs642Wz3xd"}
+{"year":2008,"title":"The Hottie & the Nottie","studios":["Regent Releasing"],"producers":["Hadeel Reda"],"winner":false,"_id":"wYGKcDBA3FfljT6z"}
+{"year":1988,"title":"Rambo III","studios":["TriStar Pictures","Carolco Pictures"],"producers":["Buzz Feitshans"],"winner":false,"_id":"wcNVMv1ZpNJUaqSF"}
+{"year":1987,"title":"Jaws: The Revenge","studios":["Universal Studios"],"producers":["Joseph Sargent"],"winner":false,"_id":"winU3XqLr6rcVt6y"}
+{"year":2003,"title":"The Real Cancun","studios":["New Line Cinema"],"producers":["Mary-Ellis Bunim","Jonathan Murray","Jamie Schutz and Rick de Oliveira"],"winner":false,"_id":"wpxVI9N3pg3s5o18"}
+{"year":1984,"title":"Cannonball Run II","studios":["Warner Bros."],"producers":["Albert S. Ruddy"],"winner":false,"_id":"x1MmbOTP8dCYwxUv"}
+{"year":1999,"title":"Star Wars: Episode I – The Phantom Menace","studios":["20th Century Fox"],"producers":["Rick McCallum and George Lucas"],"winner":false,"_id":"xbXWYUcVKrB28ylD"}
+{"year":1997,"title":"Fire Down Below","studios":["Warner Bros."],"producers":["Julius R. Nasso and Steven Seagal"],"winner":false,"_id":"xcAFr8FVGc7j05PK"}
+{"year":1996,"title":"The Stupids","studios":["New Line Cinema","Savoy Pictures"],"producers":["Leslie Belzberg"],"winner":false,"_id":"xnpF7C73XNrMphsf"}
+{"year":1984,"title":"Where the Boys Are '84","studios":["TriStar Pictures"],"producers":["Allan Carr"],"winner":false,"_id":"yDrz9Zah2Z7AXocA"}
+{"year":2013,"title":"Grown Ups 2","studios":["Columbia Pictures"],"producers":["Jack Giarraputo and Adam Sandler"],"winner":false,"_id":"yK2d617fRNwlCNhU"}
+{"year":2001,"title":"Driven","studios":["Warner Bros.","Franchise Pictures"],"producers":["Renny Harlin","Elie Samaha and Sylvester Stallone"],"winner":false,"_id":"ybuAIDTmuVdTqDJJ"}
+{"year":1992,"title":"The Bodyguard","studios":["Warner Bros."],"producers":["Kevin Costner","Lawrence Kasdan and Jim Wilson"],"winner":false,"_id":"ynN3WG7NkYsHqZC8"}
+{"year":2004,"title":"Surviving Christmas","studios":["DreamWorks"],"producers":["Betty Thomas and Jenno Topping"],"winner":false,"_id":"yxD2kDGTZvHAdxM6"}
+{"year":2003,"title":"Charlie's Angels: Full Throttle","studios":["Columbia Pictures"],"producers":["Drew Barrymore","Leonard Goldberg and Nancy Juvonen"],"winner":false,"_id":"yysTBrM1mdRgHIJ0"}
+{"year":1999,"title":"Big Daddy","studios":["Columbia Pictures"],"producers":["Sidney Ganis and Jack Giarraputo"],"winner":false,"_id":"zNUYnGzGQ8zSYR46"}
+{"year":2004,"title":"White Chicks","studios":["Columbia Pictures","Revolution Studios"],"producers":["Rick Alvarez","Lee R. Mayes","Keenen Ivory Wayans","Marlon Wayans and Shawn Wayans"],"winner":false,"_id":"zTk59lJmaZvB8SrP"}
+{"year":2003,"title":"The Cat in the Hat","studios":["Universal Studios","DreamWorks"],"producers":["Brian Grazer"],"winner":false,"_id":"zc7aw9vg7Qqtn7wb"}
+{"year":2005,"title":"Son of the Mask","studios":["New Line Cinema"],"producers":["Erica Huggins and Scott Kroopf"],"winner":false,"_id":"zedAyAwS8CXV60CL"}
+{"year":2014,"title":"Saving Christmas","studios":["Samuel Goldwyn Films"],"producers":["Darren Doane","Raphi Henley","Amanda Rosser and David Shannon"],"winner":true,"_id":"zi6TuOMd04Nie0kg"}
+{"year":2000,"title":"Little Nicky","studios":["New Line Cinema"],"producers":["Jack Giarraputo and Robert Simonds"],"winner":false,"_id":"zti1mcri36ygAQV4"}
+{"year":1987,"title":"Tough Guys Don't Dance","studios":["Cannon Films"],"producers":["Yoram Globus and Menahem Golan"],"winner":false,"_id":"zz39BNK7QgK0KLoQ"}
 {"$$indexCreated":{"fieldName":"year","unique":false,"sparse":false}}
-{"year":1980,"title":"Can't Stop the Music","studios":["Associated Film Distribution"],"producers":["Allan Carr"],"winner":true,"_id":"2mzOGlGzWSb70kJH"}
-{"year":1980,"title":"Cruising","studios":["Lorimar Productions United Artists"],"producers":["Jerry Weintraub"],"winner":false,"_id":"gNujO0WiVMHab9CN"}
-{"year":1980,"title":"The Formula","studios":["MGM United Artists"],"producers":["Steve Shagan"],"winner":false,"_id":"AFqPrTvugmLgHOGS"}
-{"year":1980,"title":"Friday the 13th","studios":["Paramount Pictures"],"producers":["Sean S. Cunningham"],"winner":false,"_id":"l5Eyyneae6wZLlKm"}
-{"year":1980,"title":"The Nude Bomb","studios":["Universal Studios"],"producers":["Jennings Lang"],"winner":false,"_id":"qkMVekV9h0GjdIuw"}
-{"year":1980,"title":"The Jazz Singer","studios":["Associated Film Distribution"],"producers":["Jerry Leider"],"winner":false,"_id":"FzJsvvxQBtGqN3kH"}
-{"year":1980,"title":"Raise the Titanic","studios":["Associated Film Distribution"],"producers":["William Frye"],"winner":false,"_id":"UIBEJE8IiqBeAnPR"}
-{"year":1980,"title":"Saturn 3","studios":["Associated Film Distribution"],"producers":["Stanley Donen"],"winner":false,"_id":"9jf4kV7np4Kx1hDH"}
-{"year":1980,"title":"Windows","studios":["United Artists"],"producers":["Mike Lobell"],"winner":false,"_id":"My8m6bUCztqMVbwH"}
-{"year":1980,"title":"Xanadu","studios":["Universal Studios"],"producers":["Lawrence Gordon"],"winner":false,"_id":"VgSnupx8U7YOhJSi"}
-{"year":1981,"title":"Mommie Dearest","studios":["Paramount Pictures"],"producers":["Frank Yablans"],"winner":true,"_id":"q48ZvDwDxoYSZ1vV"}
-{"year":1981,"title":"Heaven's Gate","studios":["United Artists"],"producers":["Joann Carelli"],"winner":false,"_id":"Gj32wJrestgnBdmv"}
-{"year":1981,"title":"The Legend of the Lone Ranger","studios":["Universal Studios","Associated Film Distribution"],"producers":["Walter Coblenz"],"winner":false,"_id":"42GE4cCNonSgvTwx"}
-{"year":1981,"title":"Tarzan, the Ape Man","studios":["MGM","United Artists"],"producers":["John Derek"],"winner":false,"_id":"eERsvYA5U7oSzFCz"}
-{"year":1982,"title":"Inchon","studios":["MGM"],"producers":["Mitsuharu Ishii"],"winner":true,"_id":"VQifL7Ix84CLcdQC"}
-{"year":1982,"title":"Annie","studios":["Columbia Pictures"],"producers":["Ray Stark"],"winner":false,"_id":"MMwGvio4n2RO3t8d"}
-{"year":1982,"title":"Butterfly","studios":["Analysis Film Releasing"],"producers":["Matt Cimber"],"winner":false,"_id":"hBu5LOZO3wx7YQIw"}
-{"year":1982,"title":"Megaforce","studios":["20th Century Fox"],"producers":["Albert S. Ruddy"],"winner":false,"_id":"uGBW3NZqOe60joMI"}
-{"year":1982,"title":"The Pirate Movie","studios":["20th Century Fox"],"producers":["David Joseph"],"winner":false,"_id":"uL9rRGo6uobwczpd"}
-{"year":1983,"title":"The Lonely Lady","studios":["Universal Studios"],"producers":["Robert R. Weston"],"winner":true,"_id":"mjmKUfaGMOGPhAjo"}
-{"year":1983,"title":"Hercules","studios":["MGM","United Artists","Cannon Films"],"producers":["Yoram Globus and Menahem Golan"],"winner":false,"_id":"JY8LQZfJ53uO6VxA"}
-{"year":1983,"title":"Jaws 3-D","studios":["Universal Studios"],"producers":["Rupert Hitzig"],"winner":false,"_id":"dcOlg8pqKyXSnNfl"}
-{"year":1983,"title":"Stroker Ace","studios":["Warner Bros.","Universal Studios"],"producers":["Hank Moonjean"],"winner":false,"_id":"5tDshdqGUc5Hr69k"}
-{"year":1983,"title":"Two of a Kind","studios":["20th Century Fox"],"producers":["Roger M. Rothstein and Joe Wizan"],"winner":false,"_id":"Lr2p5ygAsjqTCVPe"}
-{"year":1984,"title":"Bolero","studios":["Cannon Films"],"producers":["Bo Derek"],"winner":true,"_id":"hHVTRoWaK8W381Kg"}
-{"year":1984,"title":"Cannonball Run II","studios":["Warner Bros."],"producers":["Albert S. Ruddy"],"winner":false,"_id":"LwTZkFQid41LEKmR"}
-{"year":1984,"title":"Rhinestone","studios":["20th Century Fox"],"producers":["Marvin Worth and Howard Smith"],"winner":false,"_id":"m1PSYuB0fiehntI1"}
-{"year":1984,"title":"Sheena","studios":["Columbia Pictures"],"producers":["Paul Aratow"],"winner":false,"_id":"YVk5bWkUilUzgwyx"}
-{"year":1984,"title":"Where the Boys Are '84","studios":["TriStar Pictures"],"producers":["Allan Carr"],"winner":false,"_id":"J0KYVeoG5oGLphjz"}
-{"year":1985,"title":"Rambo: First Blood Part II","studios":["Columbia Pictures"],"producers":["Buzz Feitshans"],"winner":true,"_id":"PJLoI6aFJXLOq5KO"}
-{"year":1985,"title":"Fever Pitch","studios":["MGM","United Artists"],"producers":["Freddie Fields"],"winner":false,"_id":"mOFvpTrHndTkFO8i"}
-{"year":1985,"title":"Revolution","studios":["Warner Bros."],"producers":["Irwin Winkler"],"winner":false,"_id":"DAt3LVK2P91zWJa1"}
-{"year":1985,"title":"Rocky IV","studios":["MGM","United Artists"],"producers":["Irwin Winkler and Robert Chartoff"],"winner":false,"_id":"xNFWD7k2sGTd9eSg"}
-{"year":1985,"title":"Year of the Dragon","studios":["MGM","United Artists"],"producers":["Dino De Laurentiis"],"winner":false,"_id":"0CiwFtdhRvOhTHSo"}
-{"year":1986,"title":"Howard the Duck","studios":["Universal Studios"],"producers":["Gloria Katz"],"winner":true,"_id":"OyKyJ4kfaoqttvHF"}
-{"year":1986,"title":"Under the Cherry Moon","studios":["Warner Bros."],"producers":["Bob Cavallo","Joe Ruffalo and Steve Fargnoli"],"winner":true,"_id":"jtmpi7EMSGLD5OvJ"}
-{"year":1986,"title":"Blue City","studios":["Paramount Pictures"],"producers":["William L. Hayward and Walter Hill"],"winner":false,"_id":"Vw7hFO80DWoFN4Uy"}
-{"year":1986,"title":"Cobra","studios":["Warner Bros.","Cannon Films"],"producers":["Yoram Globus and Menahem Golan"],"winner":false,"_id":"5TakLyvVvcb60Xwh"}
-{"year":1986,"title":"Shanghai Surprise","studios":["MGM"],"producers":["John Kohn"],"winner":false,"_id":"201fXgA526oH5RdD"}
-{"year":1987,"title":"Leonard Part 6","studios":["Columbia Pictures"],"producers":["Bill Cosby"],"winner":true,"_id":"rpAuRguzpI5pj8sA"}
-{"year":1987,"title":"Ishtar","studios":["Columbia Pictures"],"producers":["Warren Beatty"],"winner":false,"_id":"jZ4IJThAOVOROXzw"}
-{"year":1987,"title":"Jaws: The Revenge","studios":["Universal Studios"],"producers":["Joseph Sargent"],"winner":false,"_id":"QKxGcW5WiA9rD0br"}
-{"year":1987,"title":"Tough Guys Don't Dance","studios":["Cannon Films"],"producers":["Yoram Globus and Menahem Golan"],"winner":false,"_id":"gHAq4EcqphfznASl"}
-{"year":1987,"title":"Who's That Girl","studios":["Warner Bros."],"producers":["Rosilyn Heller and Bernard Williams"],"winner":false,"_id":"htyee9urMkza8u5W"}
-{"year":1988,"title":"Cocktail","studios":["Touchstone Pictures"],"producers":["Ted Field and Robert W. Cort"],"winner":true,"_id":"JiGm8jiRAmfbOoaE"}
-{"year":1988,"title":"Caddyshack II","studios":["Warner Bros."],"producers":["Neil Canton","Jon Peters and Peter Guber"],"winner":false,"_id":"lLdU6jqMmY5ABQmv"}
-{"year":1988,"title":"Hot to Trot","studios":["Warner Bros."],"producers":["Steve Tisch"],"winner":false,"_id":"sm20fM2v8ZHfGYBB"}
-{"year":1988,"title":"Mac and Me","studios":["Orion Pictures"],"producers":["R. J. Louis"],"winner":false,"_id":"djgtjFk49ffbchfM"}
-{"year":1988,"title":"Rambo III","studios":["TriStar Pictures","Carolco Pictures"],"producers":["Buzz Feitshans"],"winner":false,"_id":"Tv1cK8STwMNWP7cF"}
-{"year":1989,"title":"Star Trek V: The Final Frontier","studios":["Paramount Pictures"],"producers":["Harve Bennett"],"winner":true,"_id":"2scZUfA5sXJPpYwv"}
-{"year":1989,"title":"The Karate Kid Part III","studios":["Columbia Pictures"],"producers":["Jerry Weintraub"],"winner":false,"_id":"QOou3fMqa7HQc0pw"}
-{"year":1989,"title":"Lock Up","studios":["TriStar Pictures","Carolco Pictures"],"producers":["Charles Gordon and Lawrence Gordon"],"winner":false,"_id":"0PM3XiDFPXYwZoRr"}
-{"year":1989,"title":"Road House","studios":["United Artists"],"producers":["Joel Silver"],"winner":false,"_id":"ajfvH84rjxZk3hiT"}
-{"year":1989,"title":"Speed Zone","studios":["Orion Pictures"],"producers":["Murray Shostack"],"winner":false,"_id":"WcEwneB3Z8uftJ7y"}
-{"year":1990,"title":"The Adventures of Ford Fairlane","studios":["20th Century Fox"],"producers":["Steven Perry and Joel Silver"],"winner":true,"_id":"465DAlqzKeuJKZda"}
-{"year":1990,"title":"Ghosts Can't Do It","studios":["Triumph Releasing"],"producers":["Bo Derek"],"winner":true,"_id":"s98U0zqk0agJwEvs"}
-{"year":1990,"title":"The Bonfire of the Vanities","studios":["Warner Bros."],"producers":["Brian De Palma"],"winner":false,"_id":"xwvYrc9ASkaqg1RB"}
-{"year":1990,"title":"Graffiti Bridge","studios":["Warner Bros."],"producers":["Randy Phillips and Craig Rice"],"winner":false,"_id":"sTZg5nlfW2e58dDF"}
-{"year":1990,"title":"Rocky V","studios":["United Artists"],"producers":["Robert Chartoff and Irwin Winkler"],"winner":false,"_id":"DOX4hcETtRZeAg2B"}
-{"year":1991,"title":"Hudson Hawk","studios":["TriStar Pictures"],"producers":["Joel Silver"],"winner":true,"_id":"bxntn18YcYvckrQz"}
-{"year":1991,"title":"Cool as Ice","studios":["Universal Studios"],"producers":["Carolyn Pfeiffer and Lionel Wingram"],"winner":false,"_id":"9HYOkUKFrqsw8cAN"}
-{"year":1991,"title":"Dice Rules","studios":["Seven Arts Productions"],"producers":["Loucas George"],"winner":false,"_id":"z4bbWb9hB00IAcQV"}
-{"year":1991,"title":"Nothing but Trouble","studios":["Warner Bros."],"producers":["Lester Berman and Robert K. Weiss"],"winner":false,"_id":"c0ChliqwWM6CbfGL"}
-{"year":1991,"title":"Return to the Blue Lagoon","studios":["Columbia Pictures"],"producers":["William A. Graham"],"winner":false,"_id":"s6BbHTQoxIbbTwLB"}
-{"year":1992,"title":"Shining Through","studios":["20th Century Fox"],"producers":["Carol Baum and Howard Rosenman"],"winner":true,"_id":"DdC0qG2KkHNwB585"}
-{"year":1992,"title":"The Bodyguard","studios":["Warner Bros."],"producers":["Kevin Costner","Lawrence Kasdan and Jim Wilson"],"winner":false,"_id":"pkG4iTvBAXijHr1o"}
-{"year":1992,"title":"Christopher Columbus: The Discovery","studios":["Warner Bros."],"producers":["Alexander Salkind and Ilya Salkind"],"winner":false,"_id":"0LB8GVxntqAXbCG1"}
-{"year":1992,"title":"Final Analysis","studios":["20th Century Fox"],"producers":["Paul Junger Witt","Charles Roven and Tony Thomas"],"winner":false,"_id":"AZGSDy03tSm4ImoL"}
-{"year":1992,"title":"Newsies","studios":["Walt Disney Pictures"],"producers":["Michael Finnell"],"winner":false,"_id":"tONnz9NXy428K4t1"}
-{"year":1993,"title":"Indecent Proposal","studios":["Paramount Pictures"],"producers":["Sherry Lansing"],"winner":true,"_id":"J0AnhzqW4lxlEsNc"}
-{"year":1993,"title":"Body of Evidence","studios":["MGM","United Artists"],"producers":["Dino De Laurentiis"],"winner":false,"_id":"lgh4c4N56Ts7omat"}
-{"year":1993,"title":"Cliffhanger","studios":["TriStar Pictures","Carolco Pictures"],"producers":["Renny Harlin and Alan Marshall"],"winner":false,"_id":"vUXhnYyvJOr44NOa"}
-{"year":1993,"title":"Last Action Hero","studios":["Columbia Pictures"],"producers":["John McTiernan and Stephen J. Roth"],"winner":false,"_id":"P14CqPyPkxqLWJH2"}
-{"year":1993,"title":"Sliver","studios":["Paramount Pictures"],"producers":["Robert Evans"],"winner":false,"_id":"X7AgUs9gtjSUZWqL"}
-{"year":1994,"title":"Color of Night","studios":["Hollywood Pictures"],"producers":["Buzz Feitshans and David Matalon"],"winner":true,"_id":"TEgJH85EYqBJOUR7"}
-{"year":1994,"title":"North","studios":["Columbia Pictures","Castle Rock Entertainment"],"producers":["Rob Reiner and Alan Zweibel"],"winner":false,"_id":"GLu58pBVF6VoUoO5"}
-{"year":1994,"title":"On Deadly Ground","studios":["Warner Bros."],"producers":["A. Kitman Ho","Julius R. Nasso and Steven Seagal"],"winner":false,"_id":"265Fy5JgzHYLInB2"}
-{"year":1994,"title":"The Specialist","studios":["Warner Bros."],"producers":["Jerry Weintraub"],"winner":false,"_id":"7L89RNdlxwPLicMA"}
-{"year":1994,"title":"Wyatt Earp","studios":["Warner Bros."],"producers":["Kevin Costner","Lawrence Kasdan and Jim Wilson"],"winner":false,"_id":"WaxAHENB7VL1X6AA"}
-{"year":1995,"title":"Showgirls","studios":["MGM","United Artists"],"producers":["Charles Evans and Alan Marshall"],"winner":true,"_id":"7Pf2JO1pBVEgUJ5E"}
-{"year":1995,"title":"Congo","studios":["Paramount Pictures"],"producers":["Kathleen Kennedy and Sam Mercer"],"winner":false,"_id":"AuTPUrWYInbqrbEz"}
-{"year":1995,"title":"It's Pat","studios":["Touchstone Pictures"],"producers":["Charles B. Wessler"],"winner":false,"_id":"cb9PJnPCa6MSFHeb"}
-{"year":1995,"title":"The Scarlet Letter","studios":["Hollywood Pictures"],"producers":["Roland Joffé and Andrew G. Vajna"],"winner":false,"_id":"2QPM2r9mrpkHcSZ5"}
-{"year":1995,"title":"Waterworld","studios":["Universal Studios"],"producers":["Kevin Costner","John Davis","Charles Gordon and Lawrence Gordon"],"winner":false,"_id":"GvUcou1Bevpa84os"}
-{"year":1996,"title":"Striptease","studios":["Columbia Pictures","Castle Rock Entertainment"],"producers":["Andrew Bergman and Mike Lobell"],"winner":true,"_id":"sonSaTPXYOfiMX4I"}
-{"year":1996,"title":"Barb Wire","studios":["PolyGram Filmed Entertainment","Gramercy Pictures"],"producers":["Todd Moyer","Mike Richardson and Brad Wyman"],"winner":false,"_id":"P5ZIfPlO2wCdm5vS"}
-{"year":1996,"title":"Ed","studios":["Universal Studios"],"producers":["Rosalie Swedlin"],"winner":false,"_id":"wNNXL2fWiDWlPmDy"}
-{"year":1996,"title":"The Island of Dr. Moreau","studios":["New Line Cinema"],"producers":["Edward R. Pressman"],"winner":false,"_id":"6Fun5X7X5kNI74eo"}
-{"year":1996,"title":"The Stupids","studios":["New Line Cinema","Savoy Pictures"],"producers":["Leslie Belzberg"],"winner":false,"_id":"3BjkLsTqFxEHFjz3"}
-{"year":1997,"title":"The Postman","studios":["Warner Bros."],"producers":["Kevin Costner","Steve Tisch and Jim Wilson"],"winner":true,"_id":"iaeP7dWiKNao3R38"}
-{"year":1997,"title":"Anaconda","studios":["Columbia Pictures"],"producers":["Verna Harrah","Carole Little and Leonard Rabinowitz"],"winner":false,"_id":"Hugw0ygxhfz6WYM4"}
-{"year":1997,"title":"Batman & Robin","studios":["Warner Bros."],"producers":["Peter MacGregor-Scott"],"winner":false,"_id":"0BwC7TfVEKTQHwQd"}
-{"year":1997,"title":"Fire Down Below","studios":["Warner Bros."],"producers":["Julius R. Nasso and Steven Seagal"],"winner":false,"_id":"4U0ZFVrFklZPzTNK"}
-{"year":1997,"title":"Speed 2: Cruise Control","studios":["20th Century Fox"],"producers":["Jan de Bont","Steve Perry and Michael Peyser"],"winner":false,"_id":"roXHuGArp7ei3nvg"}
-{"year":1998,"title":"An Alan Smithee Film: Burn Hollywood Burn","studios":["Hollywood Pictures"],"producers":["Ben Myron and Joe Eszterhas"],"winner":true,"_id":"ewlq1KAXzx80cRgY"}
-{"year":1998,"title":"Armageddon","studios":["Touchstone Pictures"],"producers":["Michael Bay and Jerry Bruckheimer"],"winner":false,"_id":"Ht9aDPGuIpz33uG2"}
-{"year":1998,"title":"The Avengers","studios":["Warner Bros."],"producers":["Jerry Weintraub"],"winner":false,"_id":"HB0XgdJN00OXkrit"}
-{"year":1998,"title":"Godzilla","studios":["TriStar Pictures"],"producers":["Roland Emmerich and Dean Devlin"],"winner":false,"_id":"qzVJ0l0qV1He0sqv"}
-{"year":1998,"title":"Spice World","studios":["Columbia Pictures"],"producers":["Uri Fruchtan","Mark L. Rosen and Barnaby Thompson"],"winner":false,"_id":"4URNDLES8uvEayNP"}
-{"year":1999,"title":"Wild Wild West","studios":["Warner Bros."],"producers":["Jon Peters and Barry Sonnenfeld"],"winner":true,"_id":"TkKPB0KqOAXeYuLP"}
-{"year":1999,"title":"Big Daddy","studios":["Columbia Pictures"],"producers":["Sidney Ganis and Jack Giarraputo"],"winner":false,"_id":"IE3xEztofaZ1wCmf"}
-{"year":1999,"title":"The Blair Witch Project","studios":["Artisan Entertainment"],"producers":["Robin Cowie and Gregg Hale"],"winner":false,"_id":"9dJiDxzRVDmyJICo"}
-{"year":1999,"title":"The Haunting","studios":["DreamWorks"],"producers":["Susan Arthur","Donna Roth and Colin Wilson"],"winner":false,"_id":"4X3uKWWQUWFkyLRC"}
-{"year":1999,"title":"Star Wars: Episode I – The Phantom Menace","studios":["20th Century Fox"],"producers":["Rick McCallum and George Lucas"],"winner":false,"_id":"ymMkzvOExEjfbJHN"}
-{"year":2000,"title":"Battlefield Earth","studios":["Warner Bros.","Franchise Pictures"],"producers":["Jonathan D. Krane","Elie Samaha and John Travolta"],"winner":true,"_id":"dADFzg3vuVn38wXe"}
-{"year":2000,"title":"Book of Shadows: Blair Witch 2","studios":["Artisan Entertainment"],"producers":["Bill Carraro"],"winner":false,"_id":"MLfM8KD4Di7NpFDq"}
-{"year":2000,"title":"The Flintstones in Viva Rock Vegas","studios":["Universal Studios"],"producers":["Bruce Cohen"],"winner":false,"_id":"JPRXFvZjs1YQMTzp"}
-{"year":2000,"title":"Little Nicky","studios":["New Line Cinema"],"producers":["Jack Giarraputo and Robert Simonds"],"winner":false,"_id":"rFuSSpWtnucjRDgb"}
-{"year":2000,"title":"The Next Best Thing","studios":["Paramount Pictures"],"producers":["Leslie Dixon","Linne Radmin and Tom Rosenberg"],"winner":false,"_id":"lLpLdpgU2KZkIpQo"}
-{"year":2001,"title":"Freddy Got Fingered","studios":["20th Century Fox"],"producers":["Larry Brezner","Howard Lapides and Lauren Lloyd"],"winner":true,"_id":"djjs8Ps1bjypcIYl"}
-{"year":2001,"title":"Driven","studios":["Warner Bros.","Franchise Pictures"],"producers":["Renny Harlin","Elie Samaha and Sylvester Stallone"],"winner":false,"_id":"BrBdmEJE7tXP093B"}
-{"year":2001,"title":"Glitter","studios":["20th Century Fox","Columbia Pictures"],"producers":["Laurence Mark and E. Bennett Walsh"],"winner":false,"_id":"QMpvvc9jp05g4F1Q"}
-{"year":2001,"title":"Pearl Harbor","studios":["Touchstone Pictures"],"producers":["Michael Bay and Jerry Bruckheimer"],"winner":false,"_id":"pqkpOmgB7cshqpT6"}
-{"year":2001,"title":"3000 Miles to Graceland","studios":["Warner Bros.","Franchise Pictures"],"producers":["Demian Lichtenstein","Eric Manes","Elie Samaha","Richard Spero and Andrew Stevens"],"winner":false,"_id":"zLzZEEfPPSDj89QG"}
-{"year":2002,"title":"Swept Away","studios":["Screen Gems"],"producers":["Matthew Vaughn"],"winner":true,"_id":"JTopnuqwiR6q6RDU"}
-{"year":2002,"title":"The Adventures of Pluto Nash","studios":["Warner Bros."],"producers":["Martin Bregman","Michael Scott Bregman and Louis A. Stroller"],"winner":false,"_id":"Xr5JwiXvk23wRJiK"}
-{"year":2002,"title":"Crossroads","studios":["Paramount Pictures"],"producers":["Ann Carli"],"winner":false,"_id":"AkZ4rRJksjQeoIVN"}
-{"year":2002,"title":"Pinocchio","studios":["Miramax Films"],"producers":["Gianluigi Braschi","Nicoletta Braschi and Elda Ferri"],"winner":false,"_id":"Gq6MAqQyJJdgB69G"}
-{"year":2002,"title":"Star Wars: Episode II – Attack of the Clones","studios":["20th Century Fox"],"producers":["Rick McCallum and George Lucas"],"winner":false,"_id":"quTOCnmaHLtSh51s"}
-{"year":2003,"title":"Gigli","studios":["Columbia Pictures","Revolution Studios"],"producers":["Martin Brest and Casey Silver"],"winner":true,"_id":"FGld5ALeOHmLqvqV"}
-{"year":2003,"title":"The Cat in the Hat","studios":["Universal Studios","DreamWorks"],"producers":["Brian Grazer"],"winner":false,"_id":"qpWV99OO0vGmOpKA"}
-{"year":2003,"title":"Charlie's Angels: Full Throttle","studios":["Columbia Pictures"],"producers":["Drew Barrymore","Leonard Goldberg and Nancy Juvonen"],"winner":false,"_id":"P6n7EtnxNeo4nBmG"}
-{"year":2003,"title":"From Justin to Kelly","studios":["20th Century Fox"],"producers":["John Steven Agoglia"],"winner":false,"_id":"oc4dfD8WBrYl0lRJ"}
-{"year":2003,"title":"The Real Cancun","studios":["New Line Cinema"],"producers":["Mary-Ellis Bunim","Jonathan Murray","Jamie Schutz and Rick de Oliveira"],"winner":false,"_id":"q1VDJL3BfdUGpbxo"}
-{"year":2004,"title":"Catwoman","studios":["Warner Bros."],"producers":["Denise Di Novi and Edward McDonnell"],"winner":true,"_id":"zvmNGVzoWfp3J6dl"}
-{"year":2004,"title":"Alexander","studios":["Warner Bros."],"producers":["Moritz Borman","Jon Kilik","Thomas Schuhly and Iain Smith"],"winner":false,"_id":"dGi0711O4eq9grRx"}
-{"year":2004,"title":"Superbabies: Baby Geniuses 2","studios":["Triumph Films"],"producers":["Steven Paul"],"winner":false,"_id":"TSSRZ8hvHk7k8JMF"}
-{"year":2004,"title":"Surviving Christmas","studios":["DreamWorks"],"producers":["Betty Thomas and Jenno Topping"],"winner":false,"_id":"Gagi8MyYmCvEBZJ3"}
-{"year":2004,"title":"White Chicks","studios":["Columbia Pictures","Revolution Studios"],"producers":["Rick Alvarez","Lee R. Mayes","Keenen Ivory Wayans","Marlon Wayans and Shawn Wayans"],"winner":false,"_id":"eYxh6ZWDqwbs3Xg2"}
-{"year":2005,"title":"Dirty Love","studios":["First Look Pictures"],"producers":["John Mallory Asher","BJ Davis","Rod Hamilton","Kimberley Kates","Michael Manasseri","Jenny McCarthy and Trent Walford"],"winner":true,"_id":"WG9FcgaoMRF8Zcz3"}
-{"year":2005,"title":"Deuce Bigalow: European Gigolo","studios":["Columbia Pictures"],"producers":["Adam Sandler and Rob Schneider"],"winner":false,"_id":"1ganJKWOeOh2GqTb"}
-{"year":2005,"title":"The Dukes of Hazzard","studios":["Warner Bros.","Village Roadshow"],"producers":["Bill Gerber"],"winner":false,"_id":"d9Uv9fvvtuxHeDxR"}
-{"year":2005,"title":"House of Wax","studios":["Warner Bros.","Village Roadshow"],"producers":["Susan Levin","Joel Silver and Robert Zemeckis"],"winner":false,"_id":"kdXQLTPMN5aNeTNW"}
-{"year":2005,"title":"Son of the Mask","studios":["New Line Cinema"],"producers":["Erica Huggins and Scott Kroopf"],"winner":false,"_id":"XJsEOdskBnjMkbF4"}
-{"year":2006,"title":"Basic Instinct 2","studios":["MGM","C2 Pictures"],"producers":["Mario Kassar","Joel B. Michaels and Andrew G. Vajna"],"winner":true,"_id":"ljM6HqDRYGAiGlw7"}
-{"year":2006,"title":"BloodRayne","studios":["Romar Entertainment"],"producers":["Uwe Boll","Dan Clarke and Wolfgang Herrold"],"winner":false,"_id":"8jneugwOeHL2I1tM"}
-{"year":2006,"title":"Lady in the Water","studios":["Warner Bros."],"producers":["Sam Mercer","Jose L. Rodriguez and M. Night Shyamalan"],"winner":false,"_id":"ZJCokYqIgqwRT3jF"}
-{"year":2006,"title":"Little Man","studios":["Columbia Pictures","Revolution Studios"],"producers":["Rick Alvares","Lee Mays","Marlon Wayans and Shawn Wayans"],"winner":false,"_id":"65cSd7KW1dls9pb2"}
-{"year":2006,"title":"The Wicker Man","studios":["Warner Bros."],"producers":["Nicolas Cage","Randall Emmett","Norm Golightly","Avi Lerner and Joanne Sellar"],"winner":false,"_id":"5gau93xbrZgkH4wF"}
-{"year":2007,"title":"I Know Who Killed Me","studios":["TriStar Pictures"],"producers":["David Grace and Frank Mancuso Jr."],"winner":false,"_id":"T7W4ZIIKJFDuk8l6"}
-{"year":2007,"title":"Bratz","studios":["Lionsgate"],"producers":["Avi Arad","Isaac Larian and Steven Paul"],"winner":false,"_id":"WPnOiqLy8Dl8YALi"}
-{"year":2007,"title":"Daddy Day Camp","studios":["TriStar Pictures","Revolution Studios"],"producers":["Matt Berenson","John Davis and Wyck Godfrey"],"winner":false,"_id":"h4UP8IsggqAiJQaH"}
-{"year":2007,"title":"I Now Pronounce You Chuck & Larry","studios":["Universal Studios"],"producers":["Adam Sandler and Tom Shadyac"],"winner":false,"_id":"jDxXk5RNRbS8GCTs"}
-{"year":2007,"title":"Norbit","studios":["DreamWorks"],"producers":["John Davis","Eddie Murphy and Michael Tollin"],"winner":false,"_id":"FS1p87EkrjITJA7v"}
-{"year":2008,"title":"The Love Guru","studios":["Paramount Pictures"],"producers":["Gary Barber","Michael DeLuca and Mike Myers"],"winner":true,"_id":"FaF2n2XVoajm1mHC"}
-{"year":2008,"title":"Disaster Movie and Meet the Spartans","studios":["Lionsgate","20th Century Fox"],"producers":["Jason Friedberg","Peter Safran and Aaron Seltzer"],"winner":false,"_id":"ewazzh0ZRgbymFdo"}
-{"year":2008,"title":"The Happening","studios":["20th Century Fox"],"producers":["Barry Mendel","Sam Mercer and M. Night Shyamalan"],"winner":false,"_id":"QfuNZzc4BPzPYFla"}
-{"year":2008,"title":"The Hottie & the Nottie","studios":["Regent Releasing"],"producers":["Hadeel Reda"],"winner":false,"_id":"5jhj0YeWJIvMGAwZ"}
-{"year":2008,"title":"In the Name of the King","studios":["Boll KG","Brightlight Pictures"],"producers":["Uwe Boll","Dan Clarke","Wolfgang Herrold and Shawn Williamson"],"winner":false,"_id":"F6JtIaAB2CXNNPyT"}
-{"year":2009,"title":"Transformers: Revenge of the Fallen","studios":["Paramount Pictures","DreamWorks","Hasbro"],"producers":["Lorenzo di Bonaventura","Ian Bryce","Tom DeSanto and Don Murphy"],"winner":true,"_id":"LK4Y0SPuE2Z0jB7n"}
-{"year":2009,"title":"All About Steve","studios":["20th Century Fox"],"producers":["Sandra Bullock and Mary McLaglen"],"winner":false,"_id":"VMYRnJAJanFxo7ti"}
-{"year":2009,"title":"G.I. Joe: The Rise of Cobra","studios":["Paramount Pictures","Hasbro"],"producers":["Lorenzo di Bonaventura","Bob Ducsay and Brian Goldner"],"winner":false,"_id":"8MfkQChF1oUEDQ5Y"}
-{"year":2009,"title":"Land of the Lost","studios":["Universal Studios"],"producers":["Sid and Marty Krofft and Jimmy Miller"],"winner":false,"_id":"A2Co8jStS9Q74SlI"}
-{"year":2009,"title":"Old Dogs","studios":["Walt Disney Pictures"],"producers":["Peter Abrams","Robert Levy and Andrew Panay"],"winner":false,"_id":"pBHCbiplFgWyIQpc"}
-{"year":2010,"title":"The Last Airbender","studios":["Paramount Pictures","Nickelodeon Movies"],"producers":["Frank Marshall","Kathleen Kennedy","Sam Mercer and M. Night Shyamalan"],"winner":true,"_id":"dUOUmDj5yYLi669J"}
-{"year":2010,"title":"The Bounty Hunter","studios":["Columbia Pictures"],"producers":["Neal H. Moritz"],"winner":false,"_id":"NBqqWKNk5DOnOVIy"}
-{"year":2010,"title":"Sex and the City 2","studios":["New Line Cinema","HBO Films","Village Roadshow Pictures"],"producers":["Michael Patrick King","John Melfi","Sarah Jessica Parker and Darren Star"],"winner":false,"_id":"YgME3aSnjxNSvJ07"}
-{"year":2010,"title":"The Twilight Saga: Eclipse","studios":["Summit Entertainment"],"producers":["Wyck Godfrey and Karen Rosenfelt"],"winner":false,"_id":"7gDjBGvZcvGyS7sZ"}
-{"year":2010,"title":"Vampires Suck","studios":["20th Century Fox"],"producers":["Jason Friedberg","Peter Safran and Aaron Seltzer"],"winner":false,"_id":"3cXKmC9d6D2fjTxR"}
-{"year":2011,"title":"Jack and Jill","studios":["Columbia Pictures"],"producers":["Todd Garner","Jack Giarraputo and Adam Sandler"],"winner":true,"_id":"eZnmbAYTr1RY646o"}
-{"year":2011,"title":"Bucky Larson: Born to Be a Star","studios":["Columbia Pictures"],"producers":["Barry Bernardi","Allen Covert","David Dorfman and Jack Giarraputo"],"winner":false,"_id":"GO1iAcflVjsV3Nwh"}
-{"year":2011,"title":"New Year's Eve","studios":["Warner Bros.","New Line Cinema"],"producers":["Mike Karz","Garry Marshall and Wayne Allan Rice"],"winner":false,"_id":"QzNgG3yqecHBf71m"}
-{"year":2011,"title":"Transformers: Dark of the Moon","studios":["Paramount Pictures"],"producers":["Lorenzo di Bonaventura","Ian Bryce","Tom DeSanto and Don Murphy"],"winner":false,"_id":"jESRrcdCF8CF2cOz"}
-{"year":2011,"title":"The Twilight Saga: Breaking Dawn – Part 1","studios":["Summit Entertainment"],"producers":["Wyck Godfrey","Stephenie Meyer and Karen Rosenfelt"],"winner":false,"_id":"B5sfBGbDpCu7AxEK"}
-{"year":2012,"title":"The Twilight Saga: Breaking Dawn – Part 2","studios":["Summit Entertainment"],"producers":["Wyck Godfrey","Stephenie Meyer and Karen Rosenfelt"],"winner":true,"_id":"7WKHtmu4isllMHp8"}
-{"year":2012,"title":"Battleship","studios":["Universal Studios"],"producers":["Sarah Aubrey","Peter Berg","Brian Goldner","Duncan Henderson","Bennett Schneir and Scott Stuber"],"winner":false,"_id":"52b19f3hk9OfuTg3"}
-{"year":2012,"title":"The Oogieloves in the Big Balloon Adventure","studios":["Lionsgate Films","Romar Entertainment","Kenn Viselman Presents"],"producers":["Gayle Dickie","Kenn Viselman"],"winner":false,"_id":"D3feLGSxMbnd4aNP"}
-{"year":2012,"title":"That's My Boy","studios":["Columbia Pictures"],"producers":["Allen Covert","Jack Giarraputo","Heather Parry and Adam Sandler"],"winner":false,"_id":"k2vw8GwahaxstgNr"}
-{"year":2012,"title":"A Thousand Words","studios":["Paramount Pictures","DreamWorks"],"producers":["Nicolas Cage","Alain Chabat","Stephanie Danan","Norman Golightly","Brian Robbinsand Sharla Sumpter Bridgett"],"winner":false,"_id":"8DDa5k1GZuM87m0n"}
-{"year":2013,"title":"Movie 43","studios":["Relativity Media"],"producers":["Peter Farrelly","Ryan Kavanaugh","John Penotti and Charles B. Wessler"],"winner":true,"_id":"ghJBXG02cObtF7aE"}
-{"year":2013,"title":"After Earth","studios":["Columbia Pictures"],"producers":["James Lassiter","Caleeb Pinkett","Jada Pinkett Smith","M. Night Shyamalan","Will Smith and Jaden Smith"],"winner":false,"_id":"HFLwHsUxnCkHi1Rh"}
-{"year":2013,"title":"Grown Ups 2","studios":["Columbia Pictures"],"producers":["Jack Giarraputo and Adam Sandler"],"winner":false,"_id":"KQ8dXwEblE931Jyp"}
-{"year":2013,"title":"The Lone Ranger","studios":["Walt Disney Pictures"],"producers":["Jerry Bruckheimer and Gore Verbinski"],"winner":false,"_id":"ANuMMlfrBoepyeEP"}
-{"year":2013,"title":"A Madea Christmas","studios":["Lionsgate"],"producers":["Ozzie Areu","Matt Moore and Tyler Perry"],"winner":false,"_id":"htHMihmGJncB5QOB"}
-{"year":2014,"title":"Saving Christmas","studios":["Samuel Goldwyn Films"],"producers":["Darren Doane","Raphi Henley","Amanda Rosser and David Shannon"],"winner":true,"_id":"EqlzRYq5qH6ks5cL"}
-{"year":2014,"title":"Left Behind","studios":["Freestyle Releasing","Entertainment One"],"producers":["Michael Walker and Paul LaLonde"],"winner":false,"_id":"P4ov59cBuzHmyAHv"}
-{"year":2014,"title":"The Legend of Hercules","studios":["Summit Entertainment"],"producers":["Boaz Davidson","Renny Harlin","Danny Lerner and Les Weldon"],"winner":false,"_id":"ImpXPmextDCyrj4D"}
-{"year":2014,"title":"Teenage Mutant Ninja Turtles","studios":["Paramount Pictures","Nickelodeon Movies","Platinum Dunes"],"producers":["Michael Bay","Ian Bryce","Andrew Form","Bradley Fuller","Scott Mednick and Galen Walker"],"winner":false,"_id":"fFZrsNIX5RAlBkB2"}
-{"year":2014,"title":"Transformers: Age of Extinction","studios":["Paramount Pictures"],"producers":["Ian Bryce","Tom DeSanto","Lorenzo di Bonaventura and Don Murphy"],"winner":false,"_id":"iRH8xlTb4MJ9SZmx"}
-{"year":2015,"title":"Fantastic Four","studios":["20th Century Fox"],"producers":["Simon Kinberg","Matthew Vaughn","Hutch Parker","Robert Kulzer and Gregory Goodman"],"winner":true,"_id":"zQccZspmUaRWM3XL"}
-{"year":2015,"title":"Fifty Shades of Grey","studios":["Universal Pictures","Focus Features"],"producers":["Michael De Luca","Dana Brunetti and E. L. James"],"winner":true,"_id":"cp2ijz4AYN7dEyhE"}
-{"year":2015,"title":"Jupiter Ascending","studios":["Warner Bros."],"producers":["Grant Hill and The Wachowskis"],"winner":false,"_id":"PQAwvfnb33HK79eD"}
-{"year":2015,"title":"Paul Blart: Mall Cop 2","studios":["Columbia Pictures"],"producers":["Todd Garner","Kevin James and Adam Sandler"],"winner":false,"_id":"UhKm68mlt5NKreIF"}
-{"year":2015,"title":"Pixels","studios":["Columbia Pictures"],"producers":["Adam Sandler","Chris Columbus","Mark Radcliffe and Allen Covert"],"winner":false,"_id":"b1WCFqNTgbRBWMz0"}
-{"year":2016,"title":"Hillary's America: The Secret History of the Democratic Party","studios":["Quality Flix"],"producers":["Gerald R. Molen"],"winner":true,"_id":"ct02TfWJoriQga5n"}
-{"year":2016,"title":"Batman v Superman: Dawn of Justice","studios":["Warner Bros."],"producers":["Charles Roven and Deborah Snyder"],"winner":false,"_id":"tIZtoFLCxpWY7IV3"}
-{"year":2016,"title":"Dirty Grandpa","studios":["Lionsgate"],"producers":["Bill Block","Michael Simkin","Jason Barrett and Barry Josephson"],"winner":false,"_id":"2nHYyB9PERAZ2Lt9"}
-{"year":2016,"title":"Gods of Egypt","studios":["Summit Entertainment"],"producers":["Basil Iwanyk and Alex Proyas"],"winner":false,"_id":"9LsIN9nKnn10vbkm"}
-{"year":2016,"title":"Independence Day: Resurgence","studios":["20th Century Fox"],"producers":["Dean Devlin","Harald Kloser and Roland Emmerich"],"winner":false,"_id":"M7ppcWo5WqDsvZcP"}
-{"year":2016,"title":"Zoolander 2","studios":["Paramount Pictures"],"producers":["Stuart Cornfeld","Scott Rudin","Ben Stiller and Clayton Townsend"],"winner":false,"_id":"naU7aAIT29U0ZQK2"}
-{"year":2017,"title":"The Emoji Movie","studios":["Columbia Pictures"],"producers":["Michelle Raimo Kouyate"],"winner":true,"_id":"13XHTdwhgimuHFHB"}
-{"year":2017,"title":"Baywatch","studios":["Paramount Pictures"],"producers":["Ivan Reitman","Michael Berk","Douglas Schwartz","Gregory J. Bonann and Beau Flynn"],"winner":false,"_id":"ufVtciUmuoEBshd1"}
-{"year":2017,"title":"Fifty Shades Darker","studios":["Universal Pictures"],"producers":["Michael De Luca","E. L. James","Dana Brunetti and Marcus Viscidi"],"winner":false,"_id":"bdw6irR1q372ZOgY"}
-{"year":2017,"title":"The Mummy","studios":["Universal Pictures"],"producers":["Alex Kurtzman","Chris Morgan","Sean Daniel and Sarah Bradshaw"],"winner":false,"_id":"riuUpyeWgC0hN5t6"}
-{"year":2017,"title":"Transformers: The Last Knight","studios":["Paramount Pictures"],"producers":["Don Murphy","Tom DeSanto","Lorenzo di Bonaventura and Ian Bryce"],"winner":false,"_id":"Q61TTYOx7R5HX3zF"}
-{"year":2018,"title":"Holmes & Watson","studios":["Columbia Pictures"],"producers":["Will Ferrell","Adam McKay","Jimmy Miller and Clayton Townsend"],"winner":true,"_id":"c7milfL16CnMZHGQ"}
-{"year":2018,"title":"Gotti","studios":["Vertical Entertainment"],"producers":["Randall Emmett","Marc Fiore","Michael Froch and George Furla"],"winner":false,"_id":"kaBhtuMmwoOsi2Mx"}
-{"year":2018,"title":"The Happytime Murders","studios":["STX"],"producers":["Ben Falcone","Jeffrey Hayes","Brian Henson and Melissa McCarthy"],"winner":false,"_id":"7hjCF06SAFJQu2j0"}
-{"year":2018,"title":"Robin Hood","studios":["Summit Entertainment"],"producers":["Jennifer Davisson and Leonardo DiCaprio"],"winner":false,"_id":"2P29qjtQou7TNcFn"}
-{"year":2018,"title":"Winchester","studios":["Lionsgate"],"producers":["Tim McGahan and Brett Tomberlin"],"winner":false,"_id":"u1AxfS0hnbglm6wj"}
-{"year":2019,"title":"Cats","studios":["Universal Pictures"],"producers":["Debra Hayward","Tim Bevan","Eric Fellner","and Tom Hooper"],"winner":true,"_id":"tZvP0VQbNpTdmJg0"}
-{"year":2019,"title":"The Fanatic","studios":["Quiver Distribution"],"producers":["Daniel Grodnik","Oscar Generale","and Bill Kenwright"],"winner":false,"_id":"S7DqPQeUeIE70Eja"}
-{"year":2019,"title":"The Haunting of Sharon Tate","studios":["Saban Films"],"producers":["Lucas Jarach","Daniel Farrands","and Eric Brenner"],"winner":false,"_id":"bI9jQtJ5Ye2KMXsW"}
-{"year":2019,"title":"A Madea Family Funeral","studios":["Lionsgate"],"producers":["Ozzie Areu","Will Areu","and Mark E. Swinton"],"winner":false,"_id":"Zn3sqLW0ayARomQf"}
-{"year":2019,"title":"Rambo: Last Blood","studios":["Lionsgate"],"producers":["Avi Lerner","Kevin King Templeton","Yariv Lerner","and Les Weldon"],"winner":false,"_id":"ohg0rLqL3nRFJqgm"}
+{"$$deleted":true,"_id":"0HM6prwZ7vgdCB3c"}
+{"$$deleted":true,"_id":"0ZEqLDGHPsfjPOVN"}
+{"$$deleted":true,"_id":"0sTNryxONd55Ra8i"}
+{"$$deleted":true,"_id":"1cBeX31dr99sRldx"}
+{"$$deleted":true,"_id":"1debQTQQnbJKcgEa"}
+{"$$deleted":true,"_id":"1fZdWdLm4D87Ie8C"}
+{"$$deleted":true,"_id":"25S1ed1Xv1KMDMTh"}
+{"$$deleted":true,"_id":"2ON2ClMJ0Uv2Ul6j"}
+{"$$deleted":true,"_id":"2P9rH4KcxlcsKmgi"}
+{"$$deleted":true,"_id":"3PJqQmIomSYUhCEJ"}
+{"$$deleted":true,"_id":"3jxmRQ7Faum5HZEm"}
+{"$$deleted":true,"_id":"48eT1zLsW1J0ZeUh"}
+{"$$deleted":true,"_id":"4DcHPF5Nnl9ZwJ2h"}
+{"$$deleted":true,"_id":"4JHAqY7EqK42K05a"}
+{"$$deleted":true,"_id":"4OPIRajlG1fZVsBD"}
+{"$$deleted":true,"_id":"4jBdGok86JJzzf4i"}
+{"$$deleted":true,"_id":"4jrGE3K1ELoC673X"}
+{"$$deleted":true,"_id":"4mPzB3kB1OrXC5We"}
+{"$$deleted":true,"_id":"4q790nCriiG74ZTQ"}
+{"$$deleted":true,"_id":"52mzjfMBqYredsvt"}
+{"$$deleted":true,"_id":"5O6Rphf2PxeARS6h"}
+{"$$deleted":true,"_id":"5Ok3Uv957qvf9TyZ"}
+{"$$deleted":true,"_id":"5UdSxwjpUNrayrA8"}
+{"$$deleted":true,"_id":"5jPWpc2LuXh3pN2n"}
+{"$$deleted":true,"_id":"6yIM3RTMKOenWQlp"}
+{"$$deleted":true,"_id":"7OJRfVq7OOwjmR0K"}
+{"$$deleted":true,"_id":"8iSkCBwCAMavON5S"}
+{"$$deleted":true,"_id":"8uovACmPOPcvjjOd"}
+{"$$deleted":true,"_id":"9gDB8Is089NPNHXa"}
+{"$$deleted":true,"_id":"9hEgJoq9pbKTHk8w"}
+{"$$deleted":true,"_id":"Aj76QDohh71E3a9F"}
+{"$$deleted":true,"_id":"AtxWSIFVwITOD20J"}
+{"$$deleted":true,"_id":"AxgWHo3iNRfp70vj"}
+{"$$deleted":true,"_id":"BGOkvUPycy1A3Yg0"}
+{"$$deleted":true,"_id":"BsKh3vkCJd6bue8t"}
+{"$$deleted":true,"_id":"CGHFBkA0Ji0wGvsl"}
+{"$$deleted":true,"_id":"ClS1q9Lde5Haa7bC"}
+{"$$deleted":true,"_id":"Csdo3RVan6hgEzPU"}
+{"$$deleted":true,"_id":"DZ1qQZj7FVFgmhIw"}
+{"$$deleted":true,"_id":"Dob9TPS77Htz5041"}
+{"$$deleted":true,"_id":"E1x68ctenoFhhHtJ"}
+{"$$deleted":true,"_id":"E9GeP5VDz2Eq0lpa"}
+{"$$deleted":true,"_id":"EgDvSgdsgDwfa1j5"}
+{"$$deleted":true,"_id":"FHgtPm0yyltf6qSb"}
+{"$$deleted":true,"_id":"FIyCP8dfZEtgPhKw"}
+{"$$deleted":true,"_id":"FMEvUC8tMzvtpC8b"}
+{"$$deleted":true,"_id":"FX69tjKE5nZkfgnl"}
+{"$$deleted":true,"_id":"FaMvB7vJu2npY8Eg"}
+{"$$deleted":true,"_id":"Fey6Al23QBkvF4og"}
+{"$$deleted":true,"_id":"FiqwrqsM7oVxXPPr"}
+{"$$deleted":true,"_id":"GDFjaWhdzPCqaSfj"}
+{"$$deleted":true,"_id":"HPOqPzemX1KcY5pQ"}
+{"$$deleted":true,"_id":"HoSC8GUcpACVwyRt"}
+{"$$deleted":true,"_id":"HudyDAddFJPrKvXj"}
+{"$$deleted":true,"_id":"I0hFZhxrTdwY7dN8"}
+{"$$deleted":true,"_id":"IEB1eiLm5VHmXleL"}
+{"$$deleted":true,"_id":"IKKp2MVT3fPuDMAK"}
+{"$$deleted":true,"_id":"INbGy91M2ucLXqdm"}
+{"$$deleted":true,"_id":"IsY8MVDg5eR8u8mu"}
+{"$$deleted":true,"_id":"IuSMbDd2PJi1DJ9M"}
+{"$$deleted":true,"_id":"J9aSeGSeYKKjFPIJ"}
+{"$$deleted":true,"_id":"JgxdatBBwuemv5XE"}
+{"$$deleted":true,"_id":"Jp1dzhXYoLBE6agu"}
+{"$$deleted":true,"_id":"KM5YmJG9Hzdkbe2B"}
+{"$$deleted":true,"_id":"KRroRRcXH5qAfOiN"}
+{"$$deleted":true,"_id":"KiJxxYzvaPtYGggk"}
+{"$$deleted":true,"_id":"L4ncroDrnixNeQty"}
+{"$$deleted":true,"_id":"LLAMiQL1Iam6tjMg"}
+{"$$deleted":true,"_id":"LMC0lircPrquuTw2"}
+{"$$deleted":true,"_id":"LWjbDKG27DT8cIOF"}
+{"$$deleted":true,"_id":"M32MPjtZUHGED6d9"}
+{"$$deleted":true,"_id":"NJsGjbkms84lJwzp"}
+{"$$deleted":true,"_id":"NkYwGGP2lGP22fm4"}
+{"$$deleted":true,"_id":"OBIVZVfPcJUDJgJm"}
+{"$$deleted":true,"_id":"OQRDNvs0y91xHaoz"}
+{"$$deleted":true,"_id":"OfHJXRaAripZVsE4"}
+{"$$deleted":true,"_id":"Ojj69seDMn7lLEha"}
+{"$$deleted":true,"_id":"P0NxCRIorvtI5wQj"}
+{"$$deleted":true,"_id":"P44xG2Q1yjiICGtK"}
+{"$$deleted":true,"_id":"PCrUuwGP8qwHk4pi"}
+{"$$deleted":true,"_id":"PMELsK6biaAr77iM"}
+{"$$deleted":true,"_id":"Pb3IKXTu5aHNf2LI"}
+{"$$deleted":true,"_id":"PzrWsC6slTLMBBC2"}
+{"$$deleted":true,"_id":"QV8hP5gRpDTpGhFi"}
+{"$$deleted":true,"_id":"Qjr7dYzyTyFfj76a"}
+{"$$deleted":true,"_id":"RFkRdgV6xNpX0Yit"}
+{"$$deleted":true,"_id":"RiwqhPwPq2pOFAG2"}
+{"$$deleted":true,"_id":"SAtAPGx6pXdLIX6B"}
+{"$$deleted":true,"_id":"SGA2BN3yrGbpSIEu"}
+{"$$deleted":true,"_id":"SKB4YfHF31FIiXbm"}
+{"$$deleted":true,"_id":"Sr4AvWIVV3VS964i"}
+{"$$deleted":true,"_id":"T6vX2DaQFIye6RkF"}
+{"$$deleted":true,"_id":"TEfxynTq2zLicipw"}
+{"$$deleted":true,"_id":"TbnK7egwV1YcsId9"}
+{"$$deleted":true,"_id":"TrORAVexGSoxQCTA"}
+{"$$deleted":true,"_id":"TwjjJdDgKDbWlEC6"}
+{"$$deleted":true,"_id":"Ub4mPbIGQajV7xaS"}
+{"$$deleted":true,"_id":"Uw3timkokyVrPkjK"}
+{"$$deleted":true,"_id":"V5icj0evEnM9mHT1"}
+{"$$deleted":true,"_id":"VOrpgoC2FJJNokBy"}
+{"$$deleted":true,"_id":"VSp8Oy87lPol0LNG"}
+{"$$deleted":true,"_id":"VhrszSFWULR0en3Q"}
+{"$$deleted":true,"_id":"Vy6LX9mIwVI7Dbzf"}
+{"$$deleted":true,"_id":"WP5chbk7qSUbANG1"}
+{"$$deleted":true,"_id":"WenhER9XtNVqljhy"}
+{"$$deleted":true,"_id":"Wji5cnGD17JJFBxd"}
+{"$$deleted":true,"_id":"XCb5UakHafxtk6Jr"}
+{"$$deleted":true,"_id":"XJn3YoOE5rOL7urV"}
+{"$$deleted":true,"_id":"XnLxbujv3GvOBtLB"}
+{"$$deleted":true,"_id":"YGpHEsqNrAEeYqgN"}
+{"$$deleted":true,"_id":"YQksCDoVgyIyu6Cy"}
+{"$$deleted":true,"_id":"YaB4idHGwOmdTiXT"}
+{"$$deleted":true,"_id":"YdUPTnRuSSM8cQOY"}
+{"$$deleted":true,"_id":"YeP4dyObV5QVSjv7"}
+{"$$deleted":true,"_id":"Yh5T9aTXYNDTYYxK"}
+{"$$deleted":true,"_id":"Yj3skCs6RGLCtDHQ"}
+{"$$deleted":true,"_id":"Ykw7DFU7zaCPxC7d"}
+{"$$deleted":true,"_id":"ZFNHwQgx2HkKVbMu"}
+{"$$deleted":true,"_id":"aCwPClmo3hSK2IGw"}
+{"$$deleted":true,"_id":"afefc4TssUUunpME"}
+{"$$deleted":true,"_id":"b0mKPGbByzYfwZ3l"}
+{"$$deleted":true,"_id":"bAdeUbcb5KhedH6b"}
+{"$$deleted":true,"_id":"bXzQk36CsVzTioeA"}
+{"$$deleted":true,"_id":"brTQBXwuOMAdkjGt"}
+{"$$deleted":true,"_id":"cRz3u0QTV7AhYDnT"}
+{"$$deleted":true,"_id":"czQP8GkKkhOjWqPN"}
+{"$$deleted":true,"_id":"dfSvxCeM7zdFlLyN"}
+{"$$deleted":true,"_id":"dnfSZf6SmhF3EqSk"}
+{"$$deleted":true,"_id":"dqyFIfaikUyzM05J"}
+{"$$deleted":true,"_id":"eCKlVABiI2lXAK2V"}
+{"$$deleted":true,"_id":"fCknaNJZyS2Umyxz"}
+{"$$deleted":true,"_id":"gPTw8mauB5dhKeUP"}
+{"$$deleted":true,"_id":"gloTnxi7ABedPJqS"}
+{"$$deleted":true,"_id":"h7PWp7gHkXV7z3wV"}
+{"$$deleted":true,"_id":"h9rErUl9ZdKufick"}
+{"$$deleted":true,"_id":"hN4saSp5Xz35BHNR"}
+{"$$deleted":true,"_id":"hOLYDlBMbIeBBFHM"}
+{"$$deleted":true,"_id":"hOuHS2stPvqRSMff"}
+{"$$deleted":true,"_id":"hRnj2yUFC7LRjTZK"}
+{"$$deleted":true,"_id":"i3PcXO3c7h2PkFcG"}
+{"$$deleted":true,"_id":"i3Y73uYWWXATEaED"}
+{"$$deleted":true,"_id":"iHJCByfW0tMbElU9"}
+{"$$deleted":true,"_id":"j7PmdAiEHzF3DVNg"}
+{"$$deleted":true,"_id":"jPCCG6VPBmekveEX"}
+{"$$deleted":true,"_id":"k2tgzTlMlaGOycHE"}
+{"$$deleted":true,"_id":"k8oREhKrzT1GR2fa"}
+{"$$deleted":true,"_id":"kLvIwfRVvGfEwu4t"}
+{"$$deleted":true,"_id":"kMTdzeBcJSXsaI5y"}
+{"$$deleted":true,"_id":"kPo0Ew2dOUYXRcfx"}
+{"$$deleted":true,"_id":"kqBFPysDe9NbBPi0"}
+{"$$deleted":true,"_id":"lAwx9WA417AStLXw"}
+{"$$deleted":true,"_id":"lD7WZQX63yWSiUWs"}
+{"$$deleted":true,"_id":"lVT8kV32IO91fNel"}
+{"$$deleted":true,"_id":"m9hoSUsDDerhQWWi"}
+{"$$deleted":true,"_id":"nN6iTqSND9YI6Vo1"}
+{"$$deleted":true,"_id":"nXCA6mi9TbBhYT6R"}
+{"$$deleted":true,"_id":"nnpA4hJBdBshnp6N"}
+{"$$deleted":true,"_id":"nuZv0XWpMEl9D7ng"}
+{"$$deleted":true,"_id":"ohA0n72N3tchl5pT"}
+{"$$deleted":true,"_id":"oyITKPHcYuu5td7N"}
+{"$$deleted":true,"_id":"p126iUcF1SGXP2Lt"}
+{"$$deleted":true,"_id":"p4lraLDkyGWB8VKe"}
+{"$$deleted":true,"_id":"pm8dhfapgDdDpI6c"}
+{"$$deleted":true,"_id":"ptyuyGu4lxmso48u"}
+{"$$deleted":true,"_id":"pukAUR1FoStXgQLt"}
+{"$$deleted":true,"_id":"qKYy5kydDlybc8k4"}
+{"$$deleted":true,"_id":"qewtryXXdHivVxZS"}
+{"$$deleted":true,"_id":"rCjVyI5fcPtUSpPM"}
+{"$$deleted":true,"_id":"rrgr5aZx6Ongvu0h"}
+{"$$deleted":true,"_id":"s46LoQq6q8Nnyzrn"}
+{"$$deleted":true,"_id":"sCmeIYQhLdqBBZRW"}
+{"$$deleted":true,"_id":"sGsGHchQamdiHRh3"}
+{"$$deleted":true,"_id":"sM0AUM3LwLdYgvaC"}
+{"$$deleted":true,"_id":"sOto7Qpe1OBETEtl"}
+{"$$deleted":true,"_id":"sYAMm06wGZQnRLgg"}
+{"$$deleted":true,"_id":"t6agKNJeQaRCoKrR"}
+{"$$deleted":true,"_id":"tB2GbNyYePiAuKOj"}
+{"$$deleted":true,"_id":"tQjnT4DHoTvIW0z4"}
+{"$$deleted":true,"_id":"uK4qXBYdRrB0EryQ"}
+{"$$deleted":true,"_id":"ujiRn17A8VqRqwQ0"}
+{"$$deleted":true,"_id":"utHG4alnnZZs7f3i"}
+{"$$deleted":true,"_id":"vh9G3yacLDbdfdl9"}
+{"$$deleted":true,"_id":"vzB4TVkRCf8J09OE"}
+{"$$deleted":true,"_id":"wOyglfWs642Wz3xd"}
+{"$$deleted":true,"_id":"wYGKcDBA3FfljT6z"}
+{"$$deleted":true,"_id":"wcNVMv1ZpNJUaqSF"}
+{"$$deleted":true,"_id":"winU3XqLr6rcVt6y"}
+{"$$deleted":true,"_id":"wpxVI9N3pg3s5o18"}
+{"$$deleted":true,"_id":"x1MmbOTP8dCYwxUv"}
+{"$$deleted":true,"_id":"xbXWYUcVKrB28ylD"}
+{"$$deleted":true,"_id":"xcAFr8FVGc7j05PK"}
+{"$$deleted":true,"_id":"xnpF7C73XNrMphsf"}
+{"$$deleted":true,"_id":"yDrz9Zah2Z7AXocA"}
+{"$$deleted":true,"_id":"yK2d617fRNwlCNhU"}
+{"$$deleted":true,"_id":"ybuAIDTmuVdTqDJJ"}
+{"$$deleted":true,"_id":"ynN3WG7NkYsHqZC8"}
+{"$$deleted":true,"_id":"yxD2kDGTZvHAdxM6"}
+{"$$deleted":true,"_id":"yysTBrM1mdRgHIJ0"}
+{"$$deleted":true,"_id":"zNUYnGzGQ8zSYR46"}
+{"$$deleted":true,"_id":"zTk59lJmaZvB8SrP"}
+{"$$deleted":true,"_id":"zc7aw9vg7Qqtn7wb"}
+{"$$deleted":true,"_id":"zedAyAwS8CXV60CL"}
+{"$$deleted":true,"_id":"zi6TuOMd04Nie0kg"}
+{"$$deleted":true,"_id":"zti1mcri36ygAQV4"}
+{"$$deleted":true,"_id":"zz39BNK7QgK0KLoQ"}
+{"year":1980,"title":"Can't Stop the Music","studios":["Associated Film Distribution"],"producers":["Allan Carr"],"winner":true,"_id":"nMNI407JYyzVCia7"}
+{"year":1980,"title":"Cruising","studios":["Lorimar Productions United Artists"],"producers":["Jerry Weintraub"],"winner":false,"_id":"2flHNvEnGDPGNPVw"}
+{"year":1980,"title":"The Formula","studios":["MGM United Artists"],"producers":["Steve Shagan"],"winner":false,"_id":"98L5dmzbOLo8lQo9"}
+{"year":1980,"title":"Friday the 13th","studios":["Paramount Pictures"],"producers":["Sean S. Cunningham"],"winner":false,"_id":"geMr9QZ4s0ZuVNWc"}
+{"year":1980,"title":"The Nude Bomb","studios":["Universal Studios"],"producers":["Jennings Lang"],"winner":false,"_id":"OZKjaPpYsU4tJotw"}
+{"year":1980,"title":"The Jazz Singer","studios":["Associated Film Distribution"],"producers":["Jerry Leider"],"winner":false,"_id":"H3jdu59HznlOxzSN"}
+{"year":1980,"title":"Raise the Titanic","studios":["Associated Film Distribution"],"producers":["William Frye"],"winner":false,"_id":"L2SSu9OXkPOknRVC"}
+{"year":1980,"title":"Saturn 3","studios":["Associated Film Distribution"],"producers":["Stanley Donen"],"winner":false,"_id":"dGBW7uNPm8IOdC9w"}
+{"year":1980,"title":"Windows","studios":["United Artists"],"producers":["Mike Lobell"],"winner":false,"_id":"d7ebR7CWI1vDyL7F"}
+{"year":1980,"title":"Xanadu","studios":["Universal Studios"],"producers":["Lawrence Gordon"],"winner":false,"_id":"oAZ2qwpGIa2N3eWF"}
+{"year":1981,"title":"Mommie Dearest","studios":["Paramount Pictures"],"producers":["Frank Yablans"],"winner":true,"_id":"McA44JzkRTIxNitH"}
+{"year":1981,"title":"Heaven's Gate","studios":["United Artists"],"producers":["Joann Carelli"],"winner":false,"_id":"BZVh5hdQipN0ET7K"}
+{"year":1981,"title":"The Legend of the Lone Ranger","studios":["Universal Studios","Associated Film Distribution"],"producers":["Walter Coblenz"],"winner":false,"_id":"1IdwkCXOqug3l6SN"}
+{"year":1981,"title":"Tarzan, the Ape Man","studios":["MGM","United Artists"],"producers":["John Derek"],"winner":false,"_id":"qImhVk2TakVFpJ3r"}
+{"year":1982,"title":"Inchon","studios":["MGM"],"producers":["Mitsuharu Ishii"],"winner":true,"_id":"t3UkST6X9DGlGNOd"}
+{"year":1982,"title":"Annie","studios":["Columbia Pictures"],"producers":["Ray Stark"],"winner":false,"_id":"1y6WHE3n0x75O70M"}
+{"year":1982,"title":"Butterfly","studios":["Analysis Film Releasing"],"producers":["Matt Cimber"],"winner":false,"_id":"SJRij4It0Lk4dw9C"}
+{"year":1982,"title":"Megaforce","studios":["20th Century Fox"],"producers":["Albert S. Ruddy"],"winner":false,"_id":"X5E9Uf2afHBargZE"}
+{"year":1982,"title":"The Pirate Movie","studios":["20th Century Fox"],"producers":["David Joseph"],"winner":false,"_id":"YdvQDyOTsGZkQWvg"}
+{"year":1983,"title":"The Lonely Lady","studios":["Universal Studios"],"producers":["Robert R. Weston"],"winner":true,"_id":"1Vzz0jvicPX1jtHK"}
+{"year":1983,"title":"Hercules","studios":["MGM","United Artists","Cannon Films"],"producers":["Yoram Globus and Menahem Golan"],"winner":false,"_id":"d3smxNDsMR60DZN7"}
+{"year":1983,"title":"Jaws 3-D","studios":["Universal Studios"],"producers":["Rupert Hitzig"],"winner":false,"_id":"pHcfNXhzzJ5Zp6Gk"}
+{"year":1983,"title":"Stroker Ace","studios":["Warner Bros.","Universal Studios"],"producers":["Hank Moonjean"],"winner":false,"_id":"2noeu4zKdmsah4Mj"}
+{"year":1983,"title":"Two of a Kind","studios":["20th Century Fox"],"producers":["Roger M. Rothstein and Joe Wizan"],"winner":false,"_id":"AzWWfqLVEXy7Ajp4"}
+{"year":1984,"title":"Bolero","studios":["Cannon Films"],"producers":["Bo Derek"],"winner":true,"_id":"CRrHnEI4hdaxx3Un"}
+{"year":1984,"title":"Cannonball Run II","studios":["Warner Bros."],"producers":["Albert S. Ruddy"],"winner":false,"_id":"37v56V7dztUq6b2p"}
+{"year":1984,"title":"Rhinestone","studios":["20th Century Fox"],"producers":["Marvin Worth and Howard Smith"],"winner":false,"_id":"kudlOAiSa6qygNVU"}
+{"year":1984,"title":"Sheena","studios":["Columbia Pictures"],"producers":["Paul Aratow"],"winner":false,"_id":"Sx766l5s0e5zAy6U"}
+{"year":1984,"title":"Where the Boys Are '84","studios":["TriStar Pictures"],"producers":["Allan Carr"],"winner":false,"_id":"zSttDaLPHhMFSfwy"}
+{"year":1985,"title":"Rambo: First Blood Part II","studios":["Columbia Pictures"],"producers":["Buzz Feitshans"],"winner":true,"_id":"jA1JNkzbuKtzgHC4"}
+{"year":1985,"title":"Fever Pitch","studios":["MGM","United Artists"],"producers":["Freddie Fields"],"winner":false,"_id":"jcOLFBZILdturK85"}
+{"year":1985,"title":"Revolution","studios":["Warner Bros."],"producers":["Irwin Winkler"],"winner":false,"_id":"SiYBZBntXLG9nMFm"}
+{"year":1985,"title":"Rocky IV","studios":["MGM","United Artists"],"producers":["Irwin Winkler and Robert Chartoff"],"winner":false,"_id":"b9A6Qhoj8Zgng6Yu"}
+{"year":1985,"title":"Year of the Dragon","studios":["MGM","United Artists"],"producers":["Dino De Laurentiis"],"winner":false,"_id":"U7mP6ZnWNYCj9F87"}
+{"year":1986,"title":"Howard the Duck","studios":["Universal Studios"],"producers":["Gloria Katz"],"winner":true,"_id":"ewlxL9jmQEkO3EBZ"}
+{"year":1986,"title":"Under the Cherry Moon","studios":["Warner Bros."],"producers":["Bob Cavallo","Joe Ruffalo and Steve Fargnoli"],"winner":true,"_id":"kqML9Ou9zFBbTRzy"}
+{"year":1986,"title":"Blue City","studios":["Paramount Pictures"],"producers":["William L. Hayward and Walter Hill"],"winner":false,"_id":"YZDOyLJe92rb2cl9"}
+{"year":1986,"title":"Cobra","studios":["Warner Bros.","Cannon Films"],"producers":["Yoram Globus and Menahem Golan"],"winner":false,"_id":"BWXa8XbnBcBAA1wE"}
+{"year":1986,"title":"Shanghai Surprise","studios":["MGM"],"producers":["John Kohn"],"winner":false,"_id":"X4WPYtqKbftJBtkL"}
+{"year":1987,"title":"Leonard Part 6","studios":["Columbia Pictures"],"producers":["Bill Cosby"],"winner":true,"_id":"MePhhlvtEaBNFlRx"}
+{"year":1987,"title":"Ishtar","studios":["Columbia Pictures"],"producers":["Warren Beatty"],"winner":false,"_id":"g8S3jI6jQTOShL0k"}
+{"year":1987,"title":"Jaws: The Revenge","studios":["Universal Studios"],"producers":["Joseph Sargent"],"winner":false,"_id":"O3GS6Hx1o35XfKga"}
+{"year":1987,"title":"Tough Guys Don't Dance","studios":["Cannon Films"],"producers":["Yoram Globus and Menahem Golan"],"winner":false,"_id":"4PA5eqr6h05d6fwl"}
+{"year":1987,"title":"Who's That Girl","studios":["Warner Bros."],"producers":["Rosilyn Heller and Bernard Williams"],"winner":false,"_id":"ZEqLbmB2YOIks4di"}
+{"year":1988,"title":"Cocktail","studios":["Touchstone Pictures"],"producers":["Ted Field and Robert W. Cort"],"winner":true,"_id":"y1FJLXAn2jfsTxpn"}
+{"year":1988,"title":"Caddyshack II","studios":["Warner Bros."],"producers":["Neil Canton","Jon Peters and Peter Guber"],"winner":false,"_id":"taOseQHeDHsRFGrg"}
+{"year":1988,"title":"Hot to Trot","studios":["Warner Bros."],"producers":["Steve Tisch"],"winner":false,"_id":"7PPJZTjxohyqfgA3"}
+{"year":1988,"title":"Mac and Me","studios":["Orion Pictures"],"producers":["R. J. Louis"],"winner":false,"_id":"uRJD87l3bBrgtdnr"}
+{"year":1988,"title":"Rambo III","studios":["TriStar Pictures","Carolco Pictures"],"producers":["Buzz Feitshans"],"winner":false,"_id":"fTBbPQ8xeC84clPq"}
+{"year":1989,"title":"Star Trek V: The Final Frontier","studios":["Paramount Pictures"],"producers":["Harve Bennett"],"winner":true,"_id":"mz0EubFp3nrpA2Kz"}
+{"year":1989,"title":"The Karate Kid Part III","studios":["Columbia Pictures"],"producers":["Jerry Weintraub"],"winner":false,"_id":"B1wahtuK8oIp16tY"}
+{"year":1989,"title":"Lock Up","studios":["TriStar Pictures","Carolco Pictures"],"producers":["Charles Gordon and Lawrence Gordon"],"winner":false,"_id":"FUwe345QPF0imap1"}
+{"year":1989,"title":"Road House","studios":["United Artists"],"producers":["Joel Silver"],"winner":false,"_id":"6dS96jIjORFxbsYV"}
+{"year":1989,"title":"Speed Zone","studios":["Orion Pictures"],"producers":["Murray Shostack"],"winner":false,"_id":"c3F2zn6iwWaZOtIb"}
+{"year":1990,"title":"The Adventures of Ford Fairlane","studios":["20th Century Fox"],"producers":["Steven Perry and Joel Silver"],"winner":true,"_id":"G8HyatRak4LphEAJ"}
+{"year":1990,"title":"Ghosts Can't Do It","studios":["Triumph Releasing"],"producers":["Bo Derek"],"winner":true,"_id":"7C6MVCghqiLGSSPK"}
+{"year":1990,"title":"The Bonfire of the Vanities","studios":["Warner Bros."],"producers":["Brian De Palma"],"winner":false,"_id":"3nJIiu36v0QfL0Zh"}
+{"year":1990,"title":"Graffiti Bridge","studios":["Warner Bros."],"producers":["Randy Phillips and Craig Rice"],"winner":false,"_id":"8Oc7EylC3dKnOiHp"}
+{"year":1990,"title":"Rocky V","studios":["United Artists"],"producers":["Robert Chartoff and Irwin Winkler"],"winner":false,"_id":"jVHgDvDhDUudQQXq"}
+{"year":1991,"title":"Hudson Hawk","studios":["TriStar Pictures"],"producers":["Joel Silver"],"winner":true,"_id":"n34kgDuxPV89JKus"}
+{"year":1991,"title":"Cool as Ice","studios":["Universal Studios"],"producers":["Carolyn Pfeiffer and Lionel Wingram"],"winner":false,"_id":"rVvDBWGDBpGoLQ1z"}
+{"year":1991,"title":"Dice Rules","studios":["Seven Arts Productions"],"producers":["Loucas George"],"winner":false,"_id":"hBwvh6bWQEVvTlhz"}
+{"year":1991,"title":"Nothing but Trouble","studios":["Warner Bros."],"producers":["Lester Berman and Robert K. Weiss"],"winner":false,"_id":"IfyxqniVdrqnoabV"}
+{"year":1991,"title":"Return to the Blue Lagoon","studios":["Columbia Pictures"],"producers":["William A. Graham"],"winner":false,"_id":"r3IgJWNSHpi0k8fi"}
+{"year":1992,"title":"Shining Through","studios":["20th Century Fox"],"producers":["Carol Baum and Howard Rosenman"],"winner":true,"_id":"qBPBLSlW1uiClhDZ"}
+{"year":1992,"title":"The Bodyguard","studios":["Warner Bros."],"producers":["Kevin Costner","Lawrence Kasdan and Jim Wilson"],"winner":false,"_id":"QN8nQsQtLkNZLzmu"}
+{"year":1992,"title":"Christopher Columbus: The Discovery","studios":["Warner Bros."],"producers":["Alexander Salkind and Ilya Salkind"],"winner":false,"_id":"1MQaWzD5iDM7CpRR"}
+{"year":1992,"title":"Final Analysis","studios":["20th Century Fox"],"producers":["Paul Junger Witt","Charles Roven and Tony Thomas"],"winner":false,"_id":"xVaquI6sZbbmTCiR"}
+{"year":1992,"title":"Newsies","studios":["Walt Disney Pictures"],"producers":["Michael Finnell"],"winner":false,"_id":"pMLDJbWesv7jJPmN"}
+{"year":1993,"title":"Indecent Proposal","studios":["Paramount Pictures"],"producers":["Sherry Lansing"],"winner":true,"_id":"dhPFxH5eK2GxqJ8b"}
+{"year":1993,"title":"Body of Evidence","studios":["MGM","United Artists"],"producers":["Dino De Laurentiis"],"winner":false,"_id":"PSlneKt6KdYV87KY"}
+{"year":1993,"title":"Cliffhanger","studios":["TriStar Pictures","Carolco Pictures"],"producers":["Renny Harlin and Alan Marshall"],"winner":false,"_id":"akgZgz25jtO0pFta"}
+{"year":1993,"title":"Last Action Hero","studios":["Columbia Pictures"],"producers":["John McTiernan and Stephen J. Roth"],"winner":false,"_id":"AJ5zuk3qXdPJZdjZ"}
+{"year":1993,"title":"Sliver","studios":["Paramount Pictures"],"producers":["Robert Evans"],"winner":false,"_id":"HkRa4ccIcqI0mHJV"}
+{"year":1994,"title":"Color of Night","studios":["Hollywood Pictures"],"producers":["Buzz Feitshans and David Matalon"],"winner":true,"_id":"FOZuDlB5HHdpAdKS"}
+{"year":1994,"title":"North","studios":["Columbia Pictures","Castle Rock Entertainment"],"producers":["Rob Reiner and Alan Zweibel"],"winner":false,"_id":"bm71NZLtPXuzd733"}
+{"year":1994,"title":"On Deadly Ground","studios":["Warner Bros."],"producers":["A. Kitman Ho","Julius R. Nasso and Steven Seagal"],"winner":false,"_id":"rdPjAYVrAHuSSEZZ"}
+{"year":1994,"title":"The Specialist","studios":["Warner Bros."],"producers":["Jerry Weintraub"],"winner":false,"_id":"6lJ2FiEJTIIjKIDy"}
+{"year":1994,"title":"Wyatt Earp","studios":["Warner Bros."],"producers":["Kevin Costner","Lawrence Kasdan and Jim Wilson"],"winner":false,"_id":"mny4S4DbA5kTewUL"}
+{"year":1995,"title":"Showgirls","studios":["MGM","United Artists"],"producers":["Charles Evans and Alan Marshall"],"winner":true,"_id":"EW0ypqLmyejzqAqP"}
+{"year":1995,"title":"Congo","studios":["Paramount Pictures"],"producers":["Kathleen Kennedy and Sam Mercer"],"winner":false,"_id":"GY5AgJJAEB0Tqcun"}
+{"year":1995,"title":"It's Pat","studios":["Touchstone Pictures"],"producers":["Charles B. Wessler"],"winner":false,"_id":"234bGldtLkCevZH1"}
+{"year":1995,"title":"The Scarlet Letter","studios":["Hollywood Pictures"],"producers":["Roland Joffé and Andrew G. Vajna"],"winner":false,"_id":"hJsB6QTcZhWUnZnp"}
+{"year":1995,"title":"Waterworld","studios":["Universal Studios"],"producers":["Kevin Costner","John Davis","Charles Gordon and Lawrence Gordon"],"winner":false,"_id":"7lEBl7PtGmOqjYKB"}
+{"year":1996,"title":"Striptease","studios":["Columbia Pictures","Castle Rock Entertainment"],"producers":["Andrew Bergman and Mike Lobell"],"winner":true,"_id":"zixMUuzktLl2P2KD"}
+{"year":1996,"title":"Barb Wire","studios":["PolyGram Filmed Entertainment","Gramercy Pictures"],"producers":["Todd Moyer","Mike Richardson and Brad Wyman"],"winner":false,"_id":"hrO4GSGgKptDtCZG"}
+{"year":1996,"title":"Ed","studios":["Universal Studios"],"producers":["Rosalie Swedlin"],"winner":false,"_id":"SraCPcxvFXlz5pjx"}
+{"year":1996,"title":"The Island of Dr. Moreau","studios":["New Line Cinema"],"producers":["Edward R. Pressman"],"winner":false,"_id":"xVkSjKkaasEbZdTm"}
+{"year":1996,"title":"The Stupids","studios":["New Line Cinema","Savoy Pictures"],"producers":["Leslie Belzberg"],"winner":false,"_id":"JhKetgBVA24BGNhU"}
+{"year":1997,"title":"The Postman","studios":["Warner Bros."],"producers":["Kevin Costner","Steve Tisch and Jim Wilson"],"winner":true,"_id":"KgACztijbB2RePGq"}
+{"year":1997,"title":"Anaconda","studios":["Columbia Pictures"],"producers":["Verna Harrah","Carole Little and Leonard Rabinowitz"],"winner":false,"_id":"9bAGyl96NLq7KYWt"}
+{"year":1997,"title":"Batman & Robin","studios":["Warner Bros."],"producers":["Peter MacGregor-Scott"],"winner":false,"_id":"nwrQ0BxkR27RKAo0"}
+{"year":1997,"title":"Fire Down Below","studios":["Warner Bros."],"producers":["Julius R. Nasso and Steven Seagal"],"winner":false,"_id":"TiHldFEcMXkhvUSE"}
+{"year":1997,"title":"Speed 2: Cruise Control","studios":["20th Century Fox"],"producers":["Jan de Bont","Steve Perry and Michael Peyser"],"winner":false,"_id":"b9T1H1hu7JWnDJF2"}
+{"year":1998,"title":"An Alan Smithee Film: Burn Hollywood Burn","studios":["Hollywood Pictures"],"producers":["Ben Myron and Joe Eszterhas"],"winner":true,"_id":"tw3jepxyKH8UXwK9"}
+{"year":1998,"title":"Armageddon","studios":["Touchstone Pictures"],"producers":["Michael Bay and Jerry Bruckheimer"],"winner":false,"_id":"KIT8fQ2TbORxXog2"}
+{"year":1998,"title":"The Avengers","studios":["Warner Bros."],"producers":["Jerry Weintraub"],"winner":false,"_id":"ha9NLqZdsDLXyrea"}
+{"year":1998,"title":"Godzilla","studios":["TriStar Pictures"],"producers":["Roland Emmerich and Dean Devlin"],"winner":false,"_id":"DRozaOOxesIKmkuu"}
+{"year":1998,"title":"Spice World","studios":["Columbia Pictures"],"producers":["Uri Fruchtan","Mark L. Rosen and Barnaby Thompson"],"winner":false,"_id":"VU7GMx3svKDVZeNv"}
+{"year":1999,"title":"Wild Wild West","studios":["Warner Bros."],"producers":["Jon Peters and Barry Sonnenfeld"],"winner":true,"_id":"YJOEmUZbRU19GJbD"}
+{"year":1999,"title":"Big Daddy","studios":["Columbia Pictures"],"producers":["Sidney Ganis and Jack Giarraputo"],"winner":false,"_id":"1D03VkEML4SKObRo"}
+{"year":1999,"title":"The Blair Witch Project","studios":["Artisan Entertainment"],"producers":["Robin Cowie and Gregg Hale"],"winner":false,"_id":"u9JaWWq9PkfKsrrb"}
+{"year":1999,"title":"The Haunting","studios":["DreamWorks"],"producers":["Susan Arthur","Donna Roth and Colin Wilson"],"winner":false,"_id":"USmwba4tSlPUISPH"}
+{"year":1999,"title":"Star Wars: Episode I – The Phantom Menace","studios":["20th Century Fox"],"producers":["Rick McCallum and George Lucas"],"winner":false,"_id":"glJkVPD5ZULjY9ki"}
+{"year":2000,"title":"Battlefield Earth","studios":["Warner Bros.","Franchise Pictures"],"producers":["Jonathan D. Krane","Elie Samaha and John Travolta"],"winner":true,"_id":"lHm5uaZyjjJSJuRs"}
+{"year":2000,"title":"Book of Shadows: Blair Witch 2","studios":["Artisan Entertainment"],"producers":["Bill Carraro"],"winner":false,"_id":"l3vD1j4Xq39Tx2GM"}
+{"year":2000,"title":"The Flintstones in Viva Rock Vegas","studios":["Universal Studios"],"producers":["Bruce Cohen"],"winner":false,"_id":"6piUhFHqk8qRVdXC"}
+{"year":2000,"title":"Little Nicky","studios":["New Line Cinema"],"producers":["Jack Giarraputo and Robert Simonds"],"winner":false,"_id":"yrYrAX9Fv0u8U9VV"}
+{"year":2000,"title":"The Next Best Thing","studios":["Paramount Pictures"],"producers":["Leslie Dixon","Linne Radmin and Tom Rosenberg"],"winner":false,"_id":"t44L65rKgZavuxWo"}
+{"year":2001,"title":"Freddy Got Fingered","studios":["20th Century Fox"],"producers":["Larry Brezner","Howard Lapides and Lauren Lloyd"],"winner":true,"_id":"lkkVcTRgNO9kat5p"}
+{"year":2001,"title":"Driven","studios":["Warner Bros.","Franchise Pictures"],"producers":["Renny Harlin","Elie Samaha and Sylvester Stallone"],"winner":false,"_id":"B8pYnQrU5E3ZGAma"}
+{"year":2001,"title":"Glitter","studios":["20th Century Fox","Columbia Pictures"],"producers":["Laurence Mark and E. Bennett Walsh"],"winner":false,"_id":"YVOk1J4yFuINcshj"}
+{"year":2001,"title":"Pearl Harbor","studios":["Touchstone Pictures"],"producers":["Michael Bay and Jerry Bruckheimer"],"winner":false,"_id":"AKLoxJkTfS2E10Ng"}
+{"year":2001,"title":"3000 Miles to Graceland","studios":["Warner Bros.","Franchise Pictures"],"producers":["Demian Lichtenstein","Eric Manes","Elie Samaha","Richard Spero and Andrew Stevens"],"winner":false,"_id":"yJV7TY0eNrExsd7Y"}
+{"year":2002,"title":"Swept Away","studios":["Screen Gems"],"producers":["Matthew Vaughn"],"winner":true,"_id":"Wvfn49UaHsE4T66e"}
+{"year":2002,"title":"The Adventures of Pluto Nash","studios":["Warner Bros."],"producers":["Martin Bregman","Michael Scott Bregman and Louis A. Stroller"],"winner":false,"_id":"26vqBf1BI1Rrok0I"}
+{"year":2002,"title":"Crossroads","studios":["Paramount Pictures"],"producers":["Ann Carli"],"winner":false,"_id":"TTx07VWoFjzYilID"}
+{"year":2002,"title":"Pinocchio","studios":["Miramax Films"],"producers":["Gianluigi Braschi","Nicoletta Braschi and Elda Ferri"],"winner":false,"_id":"IBEvlqtLRrHvraoz"}
+{"year":2002,"title":"Star Wars: Episode II – Attack of the Clones","studios":["20th Century Fox"],"producers":["Rick McCallum and George Lucas"],"winner":false,"_id":"qCRnXa4Thrdnb3e0"}
+{"year":2003,"title":"Gigli","studios":["Columbia Pictures","Revolution Studios"],"producers":["Martin Brest and Casey Silver"],"winner":true,"_id":"6Pl5TjJou5PLpzOp"}
+{"year":2003,"title":"The Cat in the Hat","studios":["Universal Studios","DreamWorks"],"producers":["Brian Grazer"],"winner":false,"_id":"hrTnOkX9mvRGahrs"}
+{"year":2003,"title":"Charlie's Angels: Full Throttle","studios":["Columbia Pictures"],"producers":["Drew Barrymore","Leonard Goldberg and Nancy Juvonen"],"winner":false,"_id":"2vWrdKp9Z9ZpYRTn"}
+{"year":2003,"title":"From Justin to Kelly","studios":["20th Century Fox"],"producers":["John Steven Agoglia"],"winner":false,"_id":"TTkZminOroPED5CN"}
+{"year":2003,"title":"The Real Cancun","studios":["New Line Cinema"],"producers":["Mary-Ellis Bunim","Jonathan Murray","Jamie Schutz and Rick de Oliveira"],"winner":false,"_id":"gBxZYSGhBetO8QUQ"}
+{"year":2004,"title":"Catwoman","studios":["Warner Bros."],"producers":["Denise Di Novi and Edward McDonnell"],"winner":true,"_id":"RoNCVciO0mo5uhPU"}
+{"year":2004,"title":"Alexander","studios":["Warner Bros."],"producers":["Moritz Borman","Jon Kilik","Thomas Schuhly and Iain Smith"],"winner":false,"_id":"iPWk70y2tOtUApvZ"}
+{"year":2004,"title":"Superbabies: Baby Geniuses 2","studios":["Triumph Films"],"producers":["Steven Paul"],"winner":false,"_id":"eNrTJ8T2hLanyo5d"}
+{"year":2004,"title":"Surviving Christmas","studios":["DreamWorks"],"producers":["Betty Thomas and Jenno Topping"],"winner":false,"_id":"ehBAPCrh6lHcAEaR"}
+{"year":2004,"title":"White Chicks","studios":["Columbia Pictures","Revolution Studios"],"producers":["Rick Alvarez","Lee R. Mayes","Keenen Ivory Wayans","Marlon Wayans and Shawn Wayans"],"winner":false,"_id":"jeahNav5ENGvvKEL"}
+{"year":2005,"title":"Dirty Love","studios":["First Look Pictures"],"producers":["John Mallory Asher","BJ Davis","Rod Hamilton","Kimberley Kates","Michael Manasseri","Jenny McCarthy and Trent Walford"],"winner":true,"_id":"eYhxJmOv74rijJx5"}
+{"year":2005,"title":"Deuce Bigalow: European Gigolo","studios":["Columbia Pictures"],"producers":["Adam Sandler and Rob Schneider"],"winner":false,"_id":"FTecSMg6qLFzuOYr"}
+{"year":2005,"title":"The Dukes of Hazzard","studios":["Warner Bros.","Village Roadshow"],"producers":["Bill Gerber"],"winner":false,"_id":"0b8Lr3kGjmQwEDFW"}
+{"year":2005,"title":"House of Wax","studios":["Warner Bros.","Village Roadshow"],"producers":["Susan Levin","Joel Silver and Robert Zemeckis"],"winner":false,"_id":"fitXO6kZMpC35VQY"}
+{"year":2005,"title":"Son of the Mask","studios":["New Line Cinema"],"producers":["Erica Huggins and Scott Kroopf"],"winner":false,"_id":"CB4VyhxvzT92SlpL"}
+{"year":2006,"title":"Basic Instinct 2","studios":["MGM","C2 Pictures"],"producers":["Mario Kassar","Joel B. Michaels and Andrew G. Vajna"],"winner":true,"_id":"cDswzt8WH8DUMgHR"}
+{"year":2006,"title":"BloodRayne","studios":["Romar Entertainment"],"producers":["Uwe Boll","Dan Clarke and Wolfgang Herrold"],"winner":false,"_id":"WyvTb62IZ2Pul5bX"}
+{"year":2006,"title":"Lady in the Water","studios":["Warner Bros."],"producers":["Sam Mercer","Jose L. Rodriguez and M. Night Shyamalan"],"winner":false,"_id":"CBp1JmEi4YnkF2N8"}
+{"year":2006,"title":"Little Man","studios":["Columbia Pictures","Revolution Studios"],"producers":["Rick Alvares","Lee Mays","Marlon Wayans and Shawn Wayans"],"winner":false,"_id":"9ovfbddcTfsnFXT1"}
+{"year":2006,"title":"The Wicker Man","studios":["Warner Bros."],"producers":["Nicolas Cage","Randall Emmett","Norm Golightly","Avi Lerner and Joanne Sellar"],"winner":false,"_id":"EF0wSE7HkzuFEYzg"}
+{"year":2007,"title":"I Know Who Killed Me","studios":["TriStar Pictures"],"producers":["David Grace and Frank Mancuso Jr."],"winner":false,"_id":"BWhmxyal2waxehRy"}
+{"year":2007,"title":"Bratz","studios":["Lionsgate"],"producers":["Avi Arad","Isaac Larian and Steven Paul"],"winner":false,"_id":"4teznj3RQymbRPtl"}
+{"year":2007,"title":"Daddy Day Camp","studios":["TriStar Pictures","Revolution Studios"],"producers":["Matt Berenson","John Davis and Wyck Godfrey"],"winner":false,"_id":"gOnTvjSm0p5RoSU3"}
+{"year":2007,"title":"I Now Pronounce You Chuck & Larry","studios":["Universal Studios"],"producers":["Adam Sandler and Tom Shadyac"],"winner":false,"_id":"iEGXcrmOx8oODcbr"}
+{"year":2007,"title":"Norbit","studios":["DreamWorks"],"producers":["John Davis","Eddie Murphy and Michael Tollin"],"winner":false,"_id":"Lq6LMxpjws2USuwV"}
+{"year":2008,"title":"The Love Guru","studios":["Paramount Pictures"],"producers":["Gary Barber","Michael DeLuca and Mike Myers"],"winner":true,"_id":"9VkVgT4F9orfavBp"}
+{"year":2008,"title":"Disaster Movie and Meet the Spartans","studios":["Lionsgate","20th Century Fox"],"producers":["Jason Friedberg","Peter Safran and Aaron Seltzer"],"winner":false,"_id":"cTFXjomqozNiuh7g"}
+{"year":2008,"title":"The Happening","studios":["20th Century Fox"],"producers":["Barry Mendel","Sam Mercer and M. Night Shyamalan"],"winner":false,"_id":"wBcefGv6FX6kAbSA"}
+{"year":2008,"title":"The Hottie & the Nottie","studios":["Regent Releasing"],"producers":["Hadeel Reda"],"winner":false,"_id":"lEUXF16PB18XBVub"}
+{"year":2008,"title":"In the Name of the King","studios":["Boll KG","Brightlight Pictures"],"producers":["Uwe Boll","Dan Clarke","Wolfgang Herrold and Shawn Williamson"],"winner":false,"_id":"Jp6YGX4Ws1padJx6"}
+{"year":2009,"title":"Transformers: Revenge of the Fallen","studios":["Paramount Pictures","DreamWorks","Hasbro"],"producers":["Lorenzo di Bonaventura","Ian Bryce","Tom DeSanto and Don Murphy"],"winner":true,"_id":"QQYR87ZVQcaUUQcj"}
+{"year":2009,"title":"All About Steve","studios":["20th Century Fox"],"producers":["Sandra Bullock and Mary McLaglen"],"winner":false,"_id":"w3v2ghfO5Fk8PLu9"}
+{"year":2009,"title":"G.I. Joe: The Rise of Cobra","studios":["Paramount Pictures","Hasbro"],"producers":["Lorenzo di Bonaventura","Bob Ducsay and Brian Goldner"],"winner":false,"_id":"KeVeQdYipdyXZae8"}
+{"year":2009,"title":"Land of the Lost","studios":["Universal Studios"],"producers":["Sid and Marty Krofft and Jimmy Miller"],"winner":false,"_id":"9pm6P5hjAxy85CvB"}
+{"year":2009,"title":"Old Dogs","studios":["Walt Disney Pictures"],"producers":["Peter Abrams","Robert Levy and Andrew Panay"],"winner":false,"_id":"g9KgneuGECAeiX5O"}
+{"year":2010,"title":"The Last Airbender","studios":["Paramount Pictures","Nickelodeon Movies"],"producers":["Frank Marshall","Kathleen Kennedy","Sam Mercer and M. Night Shyamalan"],"winner":true,"_id":"Pq7X9VldWJPNmLrK"}
+{"year":2010,"title":"The Bounty Hunter","studios":["Columbia Pictures"],"producers":["Neal H. Moritz"],"winner":false,"_id":"1XgTLnBtGKVEK0Mr"}
+{"year":2010,"title":"Sex and the City 2","studios":["New Line Cinema","HBO Films","Village Roadshow Pictures"],"producers":["Michael Patrick King","John Melfi","Sarah Jessica Parker and Darren Star"],"winner":false,"_id":"E8hjNQXkCOhISKX0"}
+{"year":2010,"title":"The Twilight Saga: Eclipse","studios":["Summit Entertainment"],"producers":["Wyck Godfrey and Karen Rosenfelt"],"winner":false,"_id":"7gAoPSOthyvj3QDJ"}
+{"year":2010,"title":"Vampires Suck","studios":["20th Century Fox"],"producers":["Jason Friedberg","Peter Safran and Aaron Seltzer"],"winner":false,"_id":"gJrHSHwdf0BcAyFQ"}
+{"year":2011,"title":"Jack and Jill","studios":["Columbia Pictures"],"producers":["Todd Garner","Jack Giarraputo and Adam Sandler"],"winner":true,"_id":"D5J8Nv25YgGHQmJT"}
+{"year":2011,"title":"Bucky Larson: Born to Be a Star","studios":["Columbia Pictures"],"producers":["Barry Bernardi","Allen Covert","David Dorfman and Jack Giarraputo"],"winner":false,"_id":"JcunTHrRJyJZiATh"}
+{"year":2011,"title":"New Year's Eve","studios":["Warner Bros.","New Line Cinema"],"producers":["Mike Karz","Garry Marshall and Wayne Allan Rice"],"winner":false,"_id":"ijy3OZ5HCeBDYwCz"}
+{"year":2011,"title":"Transformers: Dark of the Moon","studios":["Paramount Pictures"],"producers":["Lorenzo di Bonaventura","Ian Bryce","Tom DeSanto and Don Murphy"],"winner":false,"_id":"ckpx4mekYMLc6ved"}
+{"year":2011,"title":"The Twilight Saga: Breaking Dawn – Part 1","studios":["Summit Entertainment"],"producers":["Wyck Godfrey","Stephenie Meyer and Karen Rosenfelt"],"winner":false,"_id":"vxqe8ThUxiVXi90A"}
+{"year":2012,"title":"The Twilight Saga: Breaking Dawn – Part 2","studios":["Summit Entertainment"],"producers":["Wyck Godfrey","Stephenie Meyer and Karen Rosenfelt"],"winner":true,"_id":"4I86MTFgs3MiDTZ3"}
+{"year":2012,"title":"Battleship","studios":["Universal Studios"],"producers":["Sarah Aubrey","Peter Berg","Brian Goldner","Duncan Henderson","Bennett Schneir and Scott Stuber"],"winner":false,"_id":"0gZR2vIUfvyc0YlP"}
+{"year":2012,"title":"The Oogieloves in the Big Balloon Adventure","studios":["Lionsgate Films","Romar Entertainment","Kenn Viselman Presents"],"producers":["Gayle Dickie","Kenn Viselman"],"winner":false,"_id":"EuNw8kQkFuqnPUNa"}
+{"year":2012,"title":"That's My Boy","studios":["Columbia Pictures"],"producers":["Allen Covert","Jack Giarraputo","Heather Parry and Adam Sandler"],"winner":false,"_id":"8S194GLAJ4z4Tq84"}
+{"year":2012,"title":"A Thousand Words","studios":["Paramount Pictures","DreamWorks"],"producers":["Nicolas Cage","Alain Chabat","Stephanie Danan","Norman Golightly","Brian Robbinsand Sharla Sumpter Bridgett"],"winner":false,"_id":"kUiYnc4z7D3wIHb6"}
+{"year":2013,"title":"Movie 43","studios":["Relativity Media"],"producers":["Peter Farrelly","Ryan Kavanaugh","John Penotti and Charles B. Wessler"],"winner":true,"_id":"VZpUDL5HtxsDaGjM"}
+{"year":2013,"title":"After Earth","studios":["Columbia Pictures"],"producers":["James Lassiter","Caleeb Pinkett","Jada Pinkett Smith","M. Night Shyamalan","Will Smith and Jaden Smith"],"winner":false,"_id":"Ms0ndAzRyDeMcaku"}
+{"year":2013,"title":"Grown Ups 2","studios":["Columbia Pictures"],"producers":["Jack Giarraputo and Adam Sandler"],"winner":false,"_id":"2TGfJn0GxaQh32KC"}
+{"year":2013,"title":"The Lone Ranger","studios":["Walt Disney Pictures"],"producers":["Jerry Bruckheimer and Gore Verbinski"],"winner":false,"_id":"Z3fFmxzUdmxSk6j9"}
+{"year":2013,"title":"A Madea Christmas","studios":["Lionsgate"],"producers":["Ozzie Areu","Matt Moore and Tyler Perry"],"winner":false,"_id":"XXBeQYAeybNdRqTz"}
+{"year":2014,"title":"Saving Christmas","studios":["Samuel Goldwyn Films"],"producers":["Darren Doane","Raphi Henley","Amanda Rosser and David Shannon"],"winner":true,"_id":"xScqvYLQVH9llGSl"}
+{"year":2014,"title":"Left Behind","studios":["Freestyle Releasing","Entertainment One"],"producers":["Michael Walker and Paul LaLonde"],"winner":false,"_id":"94zi0jG6yIrKvWM0"}
+{"year":2014,"title":"The Legend of Hercules","studios":["Summit Entertainment"],"producers":["Boaz Davidson","Renny Harlin","Danny Lerner and Les Weldon"],"winner":false,"_id":"YwFQ8k1JX9KtPC7J"}
+{"year":2014,"title":"Teenage Mutant Ninja Turtles","studios":["Paramount Pictures","Nickelodeon Movies","Platinum Dunes"],"producers":["Michael Bay","Ian Bryce","Andrew Form","Bradley Fuller","Scott Mednick and Galen Walker"],"winner":false,"_id":"zTL798Cvdd12LNK7"}
+{"year":2014,"title":"Transformers: Age of Extinction","studios":["Paramount Pictures"],"producers":["Ian Bryce","Tom DeSanto","Lorenzo di Bonaventura and Don Murphy"],"winner":false,"_id":"UrEN9GiyfRE7x5eC"}
+{"year":2015,"title":"Fantastic Four","studios":["20th Century Fox"],"producers":["Simon Kinberg","Matthew Vaughn","Hutch Parker","Robert Kulzer and Gregory Goodman"],"winner":true,"_id":"0MC9MI8Fd5uS5HNj"}
+{"year":2015,"title":"Fifty Shades of Grey","studios":["Universal Pictures","Focus Features"],"producers":["Michael De Luca","Dana Brunetti and E. L. James"],"winner":true,"_id":"41Cv2tggixjMhe81"}
+{"year":2015,"title":"Jupiter Ascending","studios":["Warner Bros."],"producers":["Grant Hill and The Wachowskis"],"winner":false,"_id":"rwQEzOsqSTRfbt1S"}
+{"year":2015,"title":"Paul Blart: Mall Cop 2","studios":["Columbia Pictures"],"producers":["Todd Garner","Kevin James and Adam Sandler"],"winner":false,"_id":"cW4Hc6nojoqDUnrj"}
+{"year":2015,"title":"Pixels","studios":["Columbia Pictures"],"producers":["Adam Sandler","Chris Columbus","Mark Radcliffe and Allen Covert"],"winner":false,"_id":"xlbqjNeIIZEWGNNs"}
+{"year":2016,"title":"Hillary's America: The Secret History of the Democratic Party","studios":["Quality Flix"],"producers":["Gerald R. Molen"],"winner":true,"_id":"QfGjJEIsV2a6Htdq"}
+{"year":2016,"title":"Batman v Superman: Dawn of Justice","studios":["Warner Bros."],"producers":["Charles Roven and Deborah Snyder"],"winner":false,"_id":"L2EnkF0ZlT8uIeT7"}
+{"year":2016,"title":"Dirty Grandpa","studios":["Lionsgate"],"producers":["Bill Block","Michael Simkin","Jason Barrett and Barry Josephson"],"winner":false,"_id":"TYSYlkKwD11ldxcS"}
+{"year":2016,"title":"Gods of Egypt","studios":["Summit Entertainment"],"producers":["Basil Iwanyk and Alex Proyas"],"winner":false,"_id":"eVYgCLSVALJzEEKP"}
+{"year":2016,"title":"Independence Day: Resurgence","studios":["20th Century Fox"],"producers":["Dean Devlin","Harald Kloser and Roland Emmerich"],"winner":false,"_id":"OWztfwK7ZIyYYgom"}
+{"year":2016,"title":"Zoolander 2","studios":["Paramount Pictures"],"producers":["Stuart Cornfeld","Scott Rudin","Ben Stiller and Clayton Townsend"],"winner":false,"_id":"VSJKD6TPmS5Q386N"}
+{"year":2017,"title":"The Emoji Movie","studios":["Columbia Pictures"],"producers":["Michelle Raimo Kouyate"],"winner":true,"_id":"t9IEiWLtveBvNTss"}
+{"year":2017,"title":"Baywatch","studios":["Paramount Pictures"],"producers":["Ivan Reitman","Michael Berk","Douglas Schwartz","Gregory J. Bonann and Beau Flynn"],"winner":false,"_id":"gQSvgBfzUzYpZzGv"}
+{"year":2017,"title":"Fifty Shades Darker","studios":["Universal Pictures"],"producers":["Michael De Luca","E. L. James","Dana Brunetti and Marcus Viscidi"],"winner":false,"_id":"ErkXBZKYlqtH1PqC"}
+{"year":2017,"title":"The Mummy","studios":["Universal Pictures"],"producers":["Alex Kurtzman","Chris Morgan","Sean Daniel and Sarah Bradshaw"],"winner":false,"_id":"Q9JVspH6nnEyuqqo"}
+{"year":2017,"title":"Transformers: The Last Knight","studios":["Paramount Pictures"],"producers":["Don Murphy","Tom DeSanto","Lorenzo di Bonaventura and Ian Bryce"],"winner":false,"_id":"7yIqkSh7Dqtx8omR"}
+{"year":2018,"title":"Holmes & Watson","studios":["Columbia Pictures"],"producers":["Will Ferrell","Adam McKay","Jimmy Miller and Clayton Townsend"],"winner":true,"_id":"eP7blj82y7vQJ4x7"}
+{"year":2018,"title":"Gotti","studios":["Vertical Entertainment"],"producers":["Randall Emmett","Marc Fiore","Michael Froch and George Furla"],"winner":false,"_id":"olcXsihJQVoBX3Pl"}
+{"year":2018,"title":"The Happytime Murders","studios":["STX"],"producers":["Ben Falcone","Jeffrey Hayes","Brian Henson and Melissa McCarthy"],"winner":false,"_id":"KATUugYW159uIRIP"}
+{"year":2018,"title":"Robin Hood","studios":["Summit Entertainment"],"producers":["Jennifer Davisson and Leonardo DiCaprio"],"winner":false,"_id":"hd12H8QbFEFrVthd"}
+{"year":2018,"title":"Winchester","studios":["Lionsgate"],"producers":["Tim McGahan and Brett Tomberlin"],"winner":false,"_id":"feYbDG7ecdkqpG2q"}
+{"year":2019,"title":"Cats","studios":["Universal Pictures"],"producers":["Debra Hayward","Tim Bevan","Eric Fellner","and Tom Hooper"],"winner":true,"_id":"B8ri5lkRWWQJnvo5"}
+{"year":2019,"title":"The Fanatic","studios":["Quiver Distribution"],"producers":["Daniel Grodnik","Oscar Generale","and Bill Kenwright"],"winner":false,"_id":"lBQELMUJp3uNrvRY"}
+{"year":2019,"title":"The Haunting of Sharon Tate","studios":["Saban Films"],"producers":["Lucas Jarach","Daniel Farrands","and Eric Brenner"],"winner":false,"_id":"3hCNRjrP91jPdOe3"}
+{"year":2019,"title":"A Madea Family Funeral","studios":["Lionsgate"],"producers":["Ozzie Areu","Will Areu","and Mark E. Swinton"],"winner":false,"_id":"1T4HneweydtyMz87"}
+{"year":2019,"title":"Rambo: Last Blood","studios":["Lionsgate"],"producers":["Avi Lerner","Kevin King Templeton","Yariv Lerner","and Les Weldon"],"winner":false,"_id":"KsQCGgpAMShtzarq"}

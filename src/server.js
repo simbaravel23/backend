@@ -18,10 +18,9 @@ console.log('Tipo de InitDb após importação:', typeof InitDb);
 
 // Define as origens permitidas para o CORS
 const allowedOrigins = [
-    'http://localhost:5173', // Permite o seu frontend local para desenvolvimento
+    'http://localhost:5173', // Para desenvolvimento local
     'https://listafilme.onrender.com', // A URL do seu próprio backend na Render
-    "https://listadefilmes-adtf.onrender.com"
-    // Adicione a URL do seu frontend na Render AQUI quando souber (ex: 'https://seu-frontend-nome.onrender.com')
+    'https://listadefilmes-adtf.onrender.com' // << ADICIONE ESTA LINHA COM A URL REAL DO SEU FRONTEND
 ];
 
 // 2. Configuração do middleware CORS (APENAS UMA VEZ)
