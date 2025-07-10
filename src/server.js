@@ -10,7 +10,8 @@ const moviesRoutes = require('./routes/moviesRoutes'); // Importa as rotas de fi
 // const producersRoutes = require('./routes/producersRoutes');
 
 // Importa a função InitDb do Database.js e loadMoviesFromCsv do dataService.js
-const { InitDb } = require('./config/database.js'); // Certifique-se que o caminho está correto
+// ATENÇÃO: Certifique-se de que 'InitDb' é uma função exportada corretamente de './config/database.js'
+const { InitDb } = require('./config/database.js');
 const dataService = require('./services/dataService.js'); // Certifique-se que o caminho está correto
 
 // Adicione esta linha para depuração:
@@ -30,7 +31,7 @@ app.use(cors({
         if (!origin) return callback(null, true);
         // Verifica se a origem da requisição está na lista de origens permitidas
         if (allowedOrigins.indexOf(origin) === -1) {
-            const msg = 'The CORS policy for this site does not allow access from the specified Origin.';
+            const msg = 'A política CORS para este site não permite acesso da Origem especificada.';
             return callback(new Error(msg), false);
         }
         return callback(null, true);
@@ -51,22 +52,27 @@ app.use('/api/movies', moviesRoutes); // Usa as rotas de filmes sob o prefixo /a
 
 // Rota de teste simples para verificar se o servidor está funcionando
 app.get('/', (req, res) => {
-    res.send('API is running!');
+    res.send('API está funcionando!');
 });
 
 // 5. Função para inicializar a aplicação (DB e carregar CSV)
 async function initApplication() {
     try {
-        // Inicializa o banco de dados primeiro
-        await InitDb(); // Esta é a linha que está dando erro
-        console.log('Database Initialized (in-memory).');
+        // Verifica se InitDb é realmente uma função antes de tentar chamá-la
+        if (typeof InitDb === 'function') {
+            await InitDb(); // Esta é a linha que estava dando erro
+            console.log('Banco de Dados Inicializado (em memória).');
+        } else {
+            console.error('Erro: InitDb não é uma função. Verifique a exportação em database.js');
+            process.exit(1); // Encerra se a função InitDb não estiver disponível
+        }
 
         // Carrega os filmes do CSV para o banco de dados
         await dataService.loadMoviesFromCsv();
-        console.log('CSV data loaded into database.');
+        console.log('Dados CSV carregados no banco de dados.');
 
     } catch (err) {
-        console.error('Error during application initialization (DB or CSV load):', err);
+        console.error('Erro durante a inicialização da aplicação (DB ou carga CSV):', err);
         // Em caso de erro crítico na inicialização, encerra o processo
         process.exit(1);
     }
@@ -79,9 +85,9 @@ const PORT = process.env.PORT || 3000;
 initApplication().then(() => {
     // Inicia o servidor Express após a inicialização bem-sucedida
     app.listen(PORT, () => {
-        console.log(`Server running on http://localhost:${PORT}`);
+        console.log(`Servidor rodando em http://localhost:${PORT}`);
     });
 }).catch(err => {
-    console.error("Failed to start server due to initialization error:", err);
+    console.error("Falha ao iniciar o servidor devido a um erro de inicialização:", err);
     process.exit(1); // Encerra se não conseguir iniciar o servidor
 });
